@@ -1,0 +1,9 @@
+[2025.10.16 09:53:06.601] [INFO ]: fd : 10 successful connect. IP 127.0.0.1: , Port : 39806  --source flie : httpserver.cpp --line : 11
+[2025.10.16 09:53:06.601] [INFO ]: fd : 10 handle request. IP 127.0.0.1: , Port : 39806  --source flie : httpserver.cpp --line : 11
+[2025.10.16 09:53:06.601] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.10.16 09:53:06.602] [INFO ]: fd : 10 successful create http response. IP 127.0.0.1: , Port : 39806  --source flie : httpserver.cpp --line : 11
+[2025.10.16 09:53:06.618] [INFO ]: fd : 10 close. IP 127.0.0.1: , Port : 39806  --source flie : httpserver.cpp --line : 11
+[2025.10.16 09:53:07.620] [INFO ]: fd : 10 successful connect. IP 127.0.0.1: , Port : 39818  --source flie : httpserver.cpp --line : 11
+[2025.10.16 09:53:07.620] [INFO ]: fd : 10 handle request. IP 127.0.0.1: , Port : 39818  --source flie : httpserver.cpp --line : 11
+[2025.10.16 09:53:07.620] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.10.16 09:53:07.620] [INFO ]: fd : 10 method or path error, 404 not found. IP 127.0.0.1: , Port : 39818  --source flie : httpserver.cpp --line : 11

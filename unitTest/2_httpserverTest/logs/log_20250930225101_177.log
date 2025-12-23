@@ -1,0 +1,15 @@
+[2025.09.30 22:51:12.190] [INFO ]: fd : 10 successful connect. IP 10.147.18.168: , Port : 57378  --source flie : httpserver.cpp --line : 67
+[2025.09.30 22:51:12.190] [INFO ]: fd : 11 successful connect. IP 10.147.18.168: , Port : 57379  --source flie : httpserver.cpp --line : 67
+[2025.09.30 22:51:12.190] [INFO ]: fd : 10 handle request. IP 10.147.18.168: , Port : 57378  --source flie : httpserver.cpp --line : 103
+[2025.09.30 22:51:12.190] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.09.30 22:51:12.190] [INFO ]: fd : 10 successful create http response. IP 10.147.18.168: , Port : 57378  --source flie : httpserver.cpp --line : 11
+[2025.09.30 22:51:12.211] [INFO ]: fd : 10 close. IP 10.147.18.168: , Port : 57378  --source flie : httpserver.cpp --line : 76
+[2025.09.30 22:51:13.792] [INFO ]: fd : 11 handle request. IP 10.147.18.168: , Port : 57379  --source flie : httpserver.cpp --line : 103
+[2025.09.30 22:51:13.792] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.09.30 22:51:13.792] [INFO ]: fd : 11 method or path error, 404 not found. IP 10.147.18.168: , Port : 57379  --source flie : httpserver.cpp --line : 11
+[2025.09.30 22:51:35.814] [INFO ]: fd : 10 successful connect. IP 10.147.18.168: , Port : 57484  --source flie : httpserver.cpp --line : 67
+[2025.09.30 22:51:35.814] [INFO ]: fd : 11 successful connect. IP 10.147.18.168: , Port : 57485  --source flie : httpserver.cpp --line : 67
+[2025.09.30 22:51:35.814] [INFO ]: fd : 10 handle request. IP 10.147.18.168: , Port : 57484  --source flie : httpserver.cpp --line : 103
+[2025.09.30 22:51:35.814] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.09.30 22:51:35.814] [INFO ]: fd : 10 successful create http response. IP 10.147.18.168: , Port : 57484  --source flie : httpserver.cpp --line : 11
+[2025.09.30 22:51:35.840] [INFO ]: fd : 10 close. IP 10.147.18.168: , Port : 57484  --source flie : httpserver.cpp --line : 76

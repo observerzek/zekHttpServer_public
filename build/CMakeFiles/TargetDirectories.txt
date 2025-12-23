@@ -1,0 +1,3 @@
+/home/zek/cppProject/zekHttpServer/build/CMakeFiles/eventloop_test.dir
+/home/zek/cppProject/zekHttpServer/build/CMakeFiles/edit_cache.dir
+/home/zek/cppProject/zekHttpServer/build/CMakeFiles/rebuild_cache.dir

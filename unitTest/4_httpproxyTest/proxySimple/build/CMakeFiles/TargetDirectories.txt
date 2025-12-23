@@ -1,0 +1,3 @@
+/home/zek/cppProject/zekHttpServer/unitTest/4_httpproxyTest/proxySimple/build/CMakeFiles/simple_proxy_test.dir
+/home/zek/cppProject/zekHttpServer/unitTest/4_httpproxyTest/proxySimple/build/CMakeFiles/edit_cache.dir
+/home/zek/cppProject/zekHttpServer/unitTest/4_httpproxyTest/proxySimple/build/CMakeFiles/rebuild_cache.dir

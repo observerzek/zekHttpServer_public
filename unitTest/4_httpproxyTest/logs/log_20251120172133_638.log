@@ -1,0 +1,240 @@
+[2025.11.20 17:21:35.648] [INFO ]: initial ssl context  --source flie : sslContext.cpp --line : 41
+[2025.11.20 17:21:37.264] [INFO ]: server id : 1 successful connect  --source flie : httpsproxy.cpp --line : 316
+[2025.11.20 17:21:37.271] [INFO ]: server id : 1 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:37.292] [INFO ]: server id : 1 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:37.293] [INFO ]: server id : 1 stop TLS handshake  --source flie : httpsproxy.cpp --line : 404
+[2025.11.20 17:21:37.404] [INFO ]: server id : 2 successful connect  --source flie : httpsproxy.cpp --line : 316
+[2025.11.20 17:21:37.408] [INFO ]: server id : 2 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:37.429] [INFO ]: server id : 2 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:37.429] [INFO ]: server id : 2 successful complete TLS handshake  --source flie : httpsproxy.cpp --line : 410
+[2025.11.20 17:21:38.333] [INFO ]: client id : 2 successful connect  --source flie : httpsproxy.cpp --line : 692
+[2025.11.20 17:21:38.333] [INFO ]: server id : 2, send data :801  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:38.418] [INFO ]: client id : 2, recv data : 66552, decrypt data : 66697  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:38.418] [INFO ]: client id : 2, recv data : 21752, decrypt data : 21810  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:38.569] [INFO ]: server id : 2, send data :622  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:38.763] [INFO ]: client id : 2, recv data : 49709, decrypt data : 49825  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:38.791] [INFO ]: server id : 2, send data :613  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:38.793] [INFO ]: client id : 2, recv data : 2634, decrypt data : 2663  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:39.247] [INFO ]: server id : 2, send data :766  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:39.254] [INFO ]: client id : 2, recv data : 273, decrypt data : 302  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:39.262] [INFO ]: server id : 3 successful connect  --source flie : httpsproxy.cpp --line : 316
+[2025.11.20 17:21:39.264] [INFO ]: server id : 3 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:39.264] [INFO ]: server id : 4 successful connect  --source flie : httpsproxy.cpp --line : 316
+[2025.11.20 17:21:39.265] [INFO ]: server id : 5 successful connect  --source flie : httpsproxy.cpp --line : 316
+[2025.11.20 17:21:39.265] [INFO ]: server id : 6 successful connect  --source flie : httpsproxy.cpp --line : 316
+[2025.11.20 17:21:39.266] [INFO ]: server id : 4 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:39.274] [INFO ]: server id : 5 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:39.274] [INFO ]: server id : 7 successful connect  --source flie : httpsproxy.cpp --line : 316
+[2025.11.20 17:21:39.275] [INFO ]: server id : 7 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:39.282] [ERROR]: fd : 14, connect id : 3, send data : 0  --source flie : sslConnect.cpp --line : 67
+[2025.11.20 17:21:39.282] [ERROR]: fd : 14, connect id : 3, rest data : 796  --source flie : sslConnect.cpp --line : 68
+[2025.11.20 17:21:39.282] [INFO ]: server id : 3 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:39.282] [INFO ]: server id : 3 successful complete TLS handshake  --source flie : httpsproxy.cpp --line : 410
+[2025.11.20 17:21:39.282] [INFO ]: server id : 3 has stuck  --source flie : httpsproxy.cpp --line : 417
+[2025.11.20 17:21:39.283] [INFO ]: client id : 3 successful connect  --source flie : httpsproxy.cpp --line : 692
+[2025.11.20 17:21:39.283] [INFO ]: server id : 3, send data :767  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:39.283] [ERROR]: fd : 15, connect id : 4, send data : 0  --source flie : sslConnect.cpp --line : 67
+[2025.11.20 17:21:39.283] [ERROR]: fd : 15, connect id : 4, rest data : 796  --source flie : sslConnect.cpp --line : 68
+[2025.11.20 17:21:39.283] [INFO ]: server id : 4 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:39.283] [INFO ]: server id : 4 successful complete TLS handshake  --source flie : httpsproxy.cpp --line : 410
+[2025.11.20 17:21:39.283] [INFO ]: server id : 4 has stuck  --source flie : httpsproxy.cpp --line : 417
+[2025.11.20 17:21:39.284] [INFO ]: client id : 4 successful connect  --source flie : httpsproxy.cpp --line : 692
+[2025.11.20 17:21:39.284] [INFO ]: server id : 4, send data :767  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:39.296] [INFO ]: server id : 7 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:39.296] [INFO ]: server id : 7 successful complete TLS handshake  --source flie : httpsproxy.cpp --line : 410
+[2025.11.20 17:21:39.297] [INFO ]: client id : 7 successful connect  --source flie : httpsproxy.cpp --line : 692
+[2025.11.20 17:21:39.297] [INFO ]: server id : 7, send data :624  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:39.303] [INFO ]: client id : 3, recv data : 11536, decrypt data : 11565  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:39.325] [INFO ]: client id : 4, recv data : 7662, decrypt data : 7691  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:39.327] [INFO ]: client id : 7, recv data : 229, decrypt data : 258  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:39.327] [INFO ]: client id : 7, recv data : 24, decrypt data : 53  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:39.388] [INFO ]: server id : 8 successful connect  --source flie : httpsproxy.cpp --line : 316
+[2025.11.20 17:21:39.402] [INFO ]: server id : 7, send data :53  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:39.405] [INFO ]: client id : 7, recv data : 126, decrypt data : 155  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:39.429] [INFO ]: client id : 7, recv data : 12, decrypt data : 41  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:39.471] [INFO ]: server id : 7, send data :35  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:39.473] [INFO ]: client id : 7, recv data : 16, decrypt data : 45  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:39.491] [INFO ]: client id : 7, recv data : 1530, decrypt data : 1559  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:39.491] [INFO ]: client id : 7, recv data : 4, decrypt data : 33  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:39.495] [INFO ]: server id : 2, send data :767  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:39.501] [INFO ]: client id : 2, recv data : 271, decrypt data : 300  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:39.511] [ERROR]: fd : 16, connect id : 5, send data : 0  --source flie : sslConnect.cpp --line : 67
+[2025.11.20 17:21:39.511] [ERROR]: fd : 16, connect id : 5, rest data : 796  --source flie : sslConnect.cpp --line : 68
+[2025.11.20 17:21:39.511] [INFO ]: server id : 5 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:39.511] [INFO ]: server id : 5 successful complete TLS handshake  --source flie : httpsproxy.cpp --line : 410
+[2025.11.20 17:21:39.511] [INFO ]: server id : 5 has stuck  --source flie : httpsproxy.cpp --line : 417
+[2025.11.20 17:21:39.512] [INFO ]: server id : 5, send data :767  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:39.512] [INFO ]: client id : 5 successful connect  --source flie : httpsproxy.cpp --line : 692
+[2025.11.20 17:21:39.530] [INFO ]: client id : 5, recv data : 11536, decrypt data : 11565  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:39.535] [INFO ]: server id : 7, send data :8  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:39.536] [INFO ]: client id : 7 close  --source flie : httpsproxy.cpp --line : 698
+[2025.11.20 17:21:39.537] [INFO ]: server id : 7 close, triggered by client connection  --source flie : httpsproxy.cpp --line : 364
+[2025.11.20 17:21:39.741] [INFO ]: server id : 8 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:40.206] [INFO ]: server id : 6 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:40.210] [INFO ]: server id : 6 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:40.228] [INFO ]: server id : 6 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:40.228] [INFO ]: server id : 6 successful complete TLS handshake  --source flie : httpsproxy.cpp --line : 410
+[2025.11.20 17:21:40.665] [INFO ]: server id : 8 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:40.684] [ERROR]: fd : 32, connect id : 8, send data : 0  --source flie : sslConnect.cpp --line : 67
+[2025.11.20 17:21:40.684] [ERROR]: fd : 32, connect id : 8, rest data : 653  --source flie : sslConnect.cpp --line : 68
+[2025.11.20 17:21:40.684] [INFO ]: server id : 8 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:40.684] [INFO ]: server id : 8 successful complete TLS handshake  --source flie : httpsproxy.cpp --line : 410
+[2025.11.20 17:21:40.684] [INFO ]: server id : 8 has stuck  --source flie : httpsproxy.cpp --line : 417
+[2025.11.20 17:21:40.685] [INFO ]: client id : 8 successful connect  --source flie : httpsproxy.cpp --line : 692
+[2025.11.20 17:21:40.685] [INFO ]: server id : 8, send data :624  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:40.689] [INFO ]: client id : 8, recv data : 229, decrypt data : 258  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:40.689] [INFO ]: client id : 8, recv data : 24, decrypt data : 53  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:40.734] [INFO ]: server id : 9 successful connect  --source flie : httpsproxy.cpp --line : 316
+[2025.11.20 17:21:40.735] [INFO ]: server id : 9 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:40.753] [INFO ]: server id : 9 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:40.753] [INFO ]: server id : 9 successful complete TLS handshake  --source flie : httpsproxy.cpp --line : 410
+[2025.11.20 17:21:40.975] [INFO ]: server id : 8, send data :53  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:40.977] [INFO ]: client id : 8, recv data : 123, decrypt data : 152  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:40.997] [INFO ]: client id : 8, recv data : 12, decrypt data : 41  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.015] [INFO ]: server id : 8, send data :35  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.017] [INFO ]: client id : 8, recv data : 16, decrypt data : 45  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.023] [INFO ]: client id : 9 successful connect  --source flie : httpsproxy.cpp --line : 692
+[2025.11.20 17:21:41.023] [INFO ]: server id : 9, send data :624  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.027] [INFO ]: client id : 9, recv data : 229, decrypt data : 258  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.028] [INFO ]: client id : 9, recv data : 24, decrypt data : 53  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.035] [INFO ]: client id : 8, recv data : 1530, decrypt data : 1559  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.036] [INFO ]: client id : 8, recv data : 4, decrypt data : 33  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.075] [INFO ]: server id : 10 successful connect  --source flie : httpsproxy.cpp --line : 316
+[2025.11.20 17:21:41.077] [INFO ]: server id : 8, send data :8  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.078] [INFO ]: client id : 8 close  --source flie : httpsproxy.cpp --line : 698
+[2025.11.20 17:21:41.078] [INFO ]: server id : 8 close, triggered by client connection  --source flie : httpsproxy.cpp --line : 364
+[2025.11.20 17:21:41.328] [INFO ]: server id : 9, send data :53  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.330] [INFO ]: client id : 9, recv data : 123, decrypt data : 152  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.351] [INFO ]: client id : 9, recv data : 12, decrypt data : 41  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.370] [INFO ]: server id : 9, send data :35  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.372] [INFO ]: client id : 9, recv data : 16, decrypt data : 45  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.385] [INFO ]: client id : 9, recv data : 700, decrypt data : 729  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.386] [INFO ]: client id : 9, recv data : 4, decrypt data : 33  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.405] [INFO ]: server id : 10 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:41.411] [INFO ]: server id : 10 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:41.429] [ERROR]: fd : 35, connect id : 10, send data : 0  --source flie : sslConnect.cpp --line : 67
+[2025.11.20 17:21:41.429] [ERROR]: fd : 35, connect id : 10, rest data : 653  --source flie : sslConnect.cpp --line : 68
+[2025.11.20 17:21:41.429] [INFO ]: server id : 10 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:41.429] [INFO ]: server id : 10 successful complete TLS handshake  --source flie : httpsproxy.cpp --line : 410
+[2025.11.20 17:21:41.429] [INFO ]: server id : 10 has stuck  --source flie : httpsproxy.cpp --line : 417
+[2025.11.20 17:21:41.430] [INFO ]: server id : 10, send data :624  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.430] [INFO ]: client id : 10 successful connect  --source flie : httpsproxy.cpp --line : 692
+[2025.11.20 17:21:41.431] [INFO ]: server id : 9, send data :8  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.434] [INFO ]: client id : 10, recv data : 229, decrypt data : 258  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.435] [INFO ]: client id : 10, recv data : 24, decrypt data : 53  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.435] [INFO ]: client id : 9 close  --source flie : httpsproxy.cpp --line : 698
+[2025.11.20 17:21:41.436] [INFO ]: server id : 9 close, triggered by client connection  --source flie : httpsproxy.cpp --line : 364
+[2025.11.20 17:21:41.477] [INFO ]: server id : 11 successful connect  --source flie : httpsproxy.cpp --line : 316
+[2025.11.20 17:21:41.478] [INFO ]: server id : 11 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:41.493] [INFO ]: server id : 10, send data :53  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.495] [INFO ]: client id : 10, recv data : 124, decrypt data : 153  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.498] [INFO ]: server id : 11 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:41.498] [INFO ]: server id : 11 successful complete TLS handshake  --source flie : httpsproxy.cpp --line : 410
+[2025.11.20 17:21:41.499] [INFO ]: client id : 11 successful connect  --source flie : httpsproxy.cpp --line : 692
+[2025.11.20 17:21:41.499] [INFO ]: server id : 11, send data :624  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.504] [INFO ]: client id : 11, recv data : 229, decrypt data : 258  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.504] [INFO ]: client id : 11, recv data : 24, decrypt data : 53  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.505] [INFO ]: client id : 10, recv data : 12, decrypt data : 41  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.549] [INFO ]: server id : 12 successful connect  --source flie : httpsproxy.cpp --line : 316
+[2025.11.20 17:21:41.550] [INFO ]: server id : 12 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:41.554] [INFO ]: server id : 10, send data :35  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.556] [INFO ]: client id : 10, recv data : 16, decrypt data : 45  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.564] [INFO ]: server id : 11, send data :53  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.568] [ERROR]: fd : 34, connect id : 12, send data : 0  --source flie : sslConnect.cpp --line : 67
+[2025.11.20 17:21:41.568] [ERROR]: fd : 34, connect id : 12, rest data : 653  --source flie : sslConnect.cpp --line : 68
+[2025.11.20 17:21:41.568] [INFO ]: server id : 12 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:41.568] [INFO ]: server id : 12 successful complete TLS handshake  --source flie : httpsproxy.cpp --line : 410
+[2025.11.20 17:21:41.568] [INFO ]: server id : 12 has stuck  --source flie : httpsproxy.cpp --line : 417
+[2025.11.20 17:21:41.569] [INFO ]: client id : 12 successful connect  --source flie : httpsproxy.cpp --line : 692
+[2025.11.20 17:21:41.569] [INFO ]: server id : 12, send data :624  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.570] [INFO ]: client id : 10, recv data : 144, decrypt data : 173  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.570] [INFO ]: client id : 11, recv data : 124, decrypt data : 153  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.571] [INFO ]: client id : 10, recv data : 4, decrypt data : 33  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.575] [INFO ]: client id : 12, recv data : 229, decrypt data : 258  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.576] [INFO ]: client id : 12, recv data : 24, decrypt data : 53  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.605] [INFO ]: client id : 11, recv data : 12, decrypt data : 41  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.610] [INFO ]: server id : 13 successful connect  --source flie : httpsproxy.cpp --line : 316
+[2025.11.20 17:21:41.611] [INFO ]: server id : 13 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:41.615] [INFO ]: server id : 10, send data :8  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.615] [INFO ]: client id : 10 close  --source flie : httpsproxy.cpp --line : 698
+[2025.11.20 17:21:41.615] [INFO ]: server id : 10 close, triggered by client connection  --source flie : httpsproxy.cpp --line : 364
+[2025.11.20 17:21:41.629] [ERROR]: fd : 37, connect id : 13, send data : 0  --source flie : sslConnect.cpp --line : 67
+[2025.11.20 17:21:41.629] [ERROR]: fd : 37, connect id : 13, rest data : 653  --source flie : sslConnect.cpp --line : 68
+[2025.11.20 17:21:41.629] [INFO ]: server id : 13 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:41.629] [INFO ]: server id : 13 successful complete TLS handshake  --source flie : httpsproxy.cpp --line : 410
+[2025.11.20 17:21:41.629] [INFO ]: server id : 13 has stuck  --source flie : httpsproxy.cpp --line : 417
+[2025.11.20 17:21:41.629] [INFO ]: client id : 13 successful connect  --source flie : httpsproxy.cpp --line : 692
+[2025.11.20 17:21:41.629] [INFO ]: server id : 13, send data :624  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.631] [INFO ]: client id : 13, recv data : 229, decrypt data : 258  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.631] [INFO ]: client id : 13, recv data : 24, decrypt data : 53  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.632] [INFO ]: server id : 11, send data :44  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.633] [INFO ]: client id : 11, recv data : 16, decrypt data : 45  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.635] [INFO ]: server id : 12, send data :53  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.638] [INFO ]: client id : 12, recv data : 126, decrypt data : 155  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.656] [INFO ]: client id : 12, recv data : 12, decrypt data : 41  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.669] [INFO ]: client id : 11, recv data : 799, decrypt data : 828  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.669] [INFO ]: client id : 11, recv data : 4, decrypt data : 33  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.675] [INFO ]: server id : 14 successful connect  --source flie : httpsproxy.cpp --line : 316
+[2025.11.20 17:21:41.675] [INFO ]: server id : 14 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:41.690] [INFO ]: server id : 13, send data :53  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.691] [INFO ]: client id : 13, recv data : 123, decrypt data : 152  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.692] [INFO ]: server id : 14 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:41.693] [INFO ]: server id : 14 successful complete TLS handshake  --source flie : httpsproxy.cpp --line : 410
+[2025.11.20 17:21:41.693] [INFO ]: client id : 14 successful connect  --source flie : httpsproxy.cpp --line : 692
+[2025.11.20 17:21:41.693] [INFO ]: server id : 14, send data :624  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.694] [INFO ]: server id : 11, send data :8  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.697] [INFO ]: client id : 14, recv data : 229, decrypt data : 258  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.697] [INFO ]: client id : 14, recv data : 24, decrypt data : 53  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.698] [INFO ]: client id : 11 close  --source flie : httpsproxy.cpp --line : 698
+[2025.11.20 17:21:41.698] [INFO ]: server id : 11 close, triggered by client connection  --source flie : httpsproxy.cpp --line : 364
+[2025.11.20 17:21:41.708] [INFO ]: client id : 13, recv data : 12, decrypt data : 41  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.709] [INFO ]: server id : 12, send data :35  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.710] [INFO ]: client id : 12, recv data : 16, decrypt data : 45  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.720] [INFO ]: client id : 12, recv data : 141, decrypt data : 170  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.721] [INFO ]: client id : 12, recv data : 4, decrypt data : 33  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.732] [INFO ]: server id : 15 successful connect  --source flie : httpsproxy.cpp --line : 316
+[2025.11.20 17:21:41.733] [INFO ]: server id : 15 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:41.750] [INFO ]: server id : 15 handle TLS handshake  --source flie : httpsproxy.cpp --line : 393
+[2025.11.20 17:21:41.750] [INFO ]: server id : 15 successful complete TLS handshake  --source flie : httpsproxy.cpp --line : 410
+[2025.11.20 17:21:41.751] [INFO ]: client id : 15 successful connect  --source flie : httpsproxy.cpp --line : 692
+[2025.11.20 17:21:41.751] [INFO ]: server id : 15, send data :624  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.753] [INFO ]: server id : 13, send data :82  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.754] [INFO ]: server id : 14, send data :53  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.755] [INFO ]: client id : 15, recv data : 229, decrypt data : 258  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.756] [INFO ]: client id : 15, recv data : 24, decrypt data : 53  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.757] [INFO ]: client id : 13, recv data : 16, decrypt data : 45  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.759] [INFO ]: client id : 14, recv data : 121, decrypt data : 150  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.760] [INFO ]: client id : 14, recv data : 12, decrypt data : 41  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.768] [INFO ]: server id : 12, send data :8  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.770] [INFO ]: client id : 12 close  --source flie : httpsproxy.cpp --line : 698
+[2025.11.20 17:21:41.770] [INFO ]: server id : 12 close, triggered by client connection  --source flie : httpsproxy.cpp --line : 364
+[2025.11.20 17:21:41.783] [INFO ]: client id : 13, recv data : 11429, decrypt data : 11458  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.783] [INFO ]: client id : 13, recv data : 4, decrypt data : 33  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.814] [INFO ]: server id : 15, send data :53  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.814] [INFO ]: client id : 15, recv data : 123, decrypt data : 152  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.817] [INFO ]: server id : 14, send data :35  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.818] [INFO ]: client id : 14, recv data : 16, decrypt data : 45  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.818] [INFO ]: server id : 13, send data :8  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.819] [INFO ]: client id : 13 close  --source flie : httpsproxy.cpp --line : 698
+[2025.11.20 17:21:41.819] [INFO ]: server id : 13 close, triggered by client connection  --source flie : httpsproxy.cpp --line : 364
+[2025.11.20 17:21:41.826] [INFO ]: client id : 14, recv data : 115, decrypt data : 144  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.826] [INFO ]: client id : 14, recv data : 4, decrypt data : 33  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.861] [INFO ]: client id : 15, recv data : 12, decrypt data : 41  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.877] [INFO ]: server id : 14, send data :8  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.878] [INFO ]: client id : 14 close  --source flie : httpsproxy.cpp --line : 698
+[2025.11.20 17:21:41.878] [INFO ]: server id : 14 close, triggered by client connection  --source flie : httpsproxy.cpp --line : 364
+[2025.11.20 17:21:41.892] [INFO ]: server id : 15, send data :35  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.894] [INFO ]: client id : 15, recv data : 16, decrypt data : 45  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.907] [INFO ]: client id : 15, recv data : 117, decrypt data : 146  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.907] [INFO ]: client id : 15, recv data : 4, decrypt data : 33  --source flie : httpsproxy.cpp --line : 808
+[2025.11.20 17:21:41.953] [INFO ]: server id : 15, send data :8  --source flie : httpsproxy.cpp --line : 658
+[2025.11.20 17:21:41.954] [INFO ]: client id : 15 close  --source flie : httpsproxy.cpp --line : 698
+[2025.11.20 17:21:41.954] [INFO ]: server id : 15 close, triggered by client connection  --source flie : httpsproxy.cpp --line : 364
+[2025.11.20 17:21:44.304] [INFO ]: client id : 3 close  --source flie : httpsproxy.cpp --line : 698
+[2025.11.20 17:21:44.304] [INFO ]: server id : 3 close, triggered by client connection  --source flie : httpsproxy.cpp --line : 364
+[2025.11.20 17:21:44.327] [INFO ]: client id : 4 close  --source flie : httpsproxy.cpp --line : 698
+[2025.11.20 17:21:44.327] [INFO ]: server id : 4 close, triggered by client connection  --source flie : httpsproxy.cpp --line : 364
+[2025.11.20 17:21:44.502] [INFO ]: client id : 2 close  --source flie : httpsproxy.cpp --line : 698
+[2025.11.20 17:21:44.503] [INFO ]: server id : 2 close, triggered by client connection  --source flie : httpsproxy.cpp --line : 364
+[2025.11.20 17:21:44.530] [INFO ]: client id : 5 close  --source flie : httpsproxy.cpp --line : 698
+[2025.11.20 17:21:44.531] [INFO ]: server id : 5 close, triggered by client connection  --source flie : httpsproxy.cpp --line : 364

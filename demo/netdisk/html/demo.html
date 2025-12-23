@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download属性示例</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 0 20px;
+        }
+        .download-link {
+            display: block;
+            margin: 15px 0;
+            padding: 10px 15px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            width: fit-content;
+        }
+        .download-link:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>文件下载示例</h1>
+    
+    <!-- 1. 基础用法：使用原文件名下载 -->
+    <a href="files/sample-document.pdf" class="download-link" download>
+        下载PDF文档（使用原文件名）
+    </a>
+
+    <!-- 2. 指定下载文件名 -->
+    <a href="files/report_202409.pdf" class="download-link" download="年度报告_2024.pdf">
+        下载年度报告（自定义文件名）
+    </a>
+
+    <!-- 3. 下载图片文件 -->
+    <a href="images/company-logo.png"  download="企业LOGO.png">
+        下载企业LOGO图片
+    </a>
+
+    <a>
+        <a href="files/123.txt" class="download-link" download="123.txt">
+    </a>
+
+    <!-- 4. 下载压缩包 -->
+    <a href="files/data-pack.zip" class="download-link" download="项目数据压缩包.zip">
+        下载项目数据压缩包
+    </a>
+
+    <p><strong>注意：</strong>如果href指向跨域资源，部分浏览器可能会忽略download属性，直接在新标签页打开资源而非下载。</p>
+</body>
+</html>

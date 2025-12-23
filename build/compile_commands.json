@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/zek/cppProject/zekHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/zek/cppProject/zekModuo/include -I/home/zek -g -g -o CMakeFiles/eventloop_test.dir/home/zek/cppProject/zekModuo/unitTest/1_eventloopTest/eventloopTest.cpp.o -c /home/zek/cppProject/zekModuo/unitTest/1_eventloopTest/eventloopTest.cpp",
+  "file": "/home/zek/cppProject/zekModuo/unitTest/1_eventloopTest/eventloopTest.cpp"
+},
+{
+  "directory": "/home/zek/cppProject/zekHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/zek/cppProject/zekModuo/include -I/home/zek -g -g -o CMakeFiles/eventloop_test.dir/home/zek/cppProject/zekModuo/src/logger.cpp.o -c /home/zek/cppProject/zekModuo/src/logger.cpp",
+  "file": "/home/zek/cppProject/zekModuo/src/logger.cpp"
+},
+{
+  "directory": "/home/zek/cppProject/zekHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/zek/cppProject/zekModuo/include -I/home/zek -g -g -o CMakeFiles/eventloop_test.dir/home/zek/cppProject/zekModuo/src/channel.cpp.o -c /home/zek/cppProject/zekModuo/src/channel.cpp",
+  "file": "/home/zek/cppProject/zekModuo/src/channel.cpp"
+},
+{
+  "directory": "/home/zek/cppProject/zekHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/zek/cppProject/zekModuo/include -I/home/zek -g -g -o CMakeFiles/eventloop_test.dir/home/zek/cppProject/zekModuo/src/epollcontroler.cpp.o -c /home/zek/cppProject/zekModuo/src/epollcontroler.cpp",
+  "file": "/home/zek/cppProject/zekModuo/src/epollcontroler.cpp"
+},
+{
+  "directory": "/home/zek/cppProject/zekHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/zek/cppProject/zekModuo/include -I/home/zek -g -g -o CMakeFiles/eventloop_test.dir/home/zek/cppProject/zekModuo/src/eventloop.cpp.o -c /home/zek/cppProject/zekModuo/src/eventloop.cpp",
+  "file": "/home/zek/cppProject/zekModuo/src/eventloop.cpp"
+}
+]

@@ -1,0 +1,20 @@
+[2025.12.23 14:07:47.644] [INFO ]: success to create MysqlConnectionPool  --source flie : mysqlpool.cpp --line : 71
+[2025.12.23 14:07:47.655] [INFO ]: initial ssl context  --source flie : sslContext.cpp --line : 41
+[2025.12.23 14:07:54.782] [INFO ]: fd : 16 connect id : 1 successful connect. IP 127.0.0.1: , Port : 33010  --source flie : httpserver.cpp --line : 15
+[2025.12.23 14:07:54.783] [INFO ]: fd : 16 connect id : 1 handle TLS handshake IP 127.0.0.1: , Port : 33010  --source flie : httpserver.cpp --line : 15
+[2025.12.23 14:07:54.796] [INFO ]: fd : 17 connect id : 2 successful connect. IP 127.0.0.1: , Port : 33020  --source flie : httpserver.cpp --line : 15
+[2025.12.23 14:07:54.796] [INFO ]: fd : 17 connect id : 2 handle TLS handshake IP 127.0.0.1: , Port : 33020  --source flie : httpserver.cpp --line : 15
+[2025.12.23 14:07:54.812] [INFO ]: fd : 16 connect id : 1 handle TLS handshake IP 127.0.0.1: , Port : 33010  --source flie : httpserver.cpp --line : 15
+[2025.12.23 14:07:54.813] [INFO ]: fd : 16 connect id : 1 successful complete TLS handshake IP 127.0.0.1: , Port : 33010  --source flie : httpserver.cpp --line : 15
+[2025.12.23 14:07:54.840] [INFO ]: fd : 16 connect id : 1 handle request. IP 127.0.0.1: , Port : 33010  --source flie : httpserver.cpp --line : 15
+[2025.12.23 14:07:54.840] [INFO ]: fd : 17 connect id : 2 handle TLS handshake IP 127.0.0.1: , Port : 33020  --source flie : httpserver.cpp --line : 15
+[2025.12.23 14:07:54.840] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.12.23 14:07:54.841] [INFO ]: fd : 17 connect id : 2 successful complete TLS handshake IP 127.0.0.1: , Port : 33020  --source flie : httpserver.cpp --line : 15
+[2025.12.23 14:07:54.849] [INFO ]: fd : 16 connect id : 1 close. IP 127.0.0.1: , Port : 33010  --source flie : httpserver.cpp --line : 15
+[2025.12.23 14:07:54.913] [INFO ]: fd : 16 connect id : 3 successful connect. IP 127.0.0.1: , Port : 33034  --source flie : httpserver.cpp --line : 15
+[2025.12.23 14:07:54.915] [INFO ]: fd : 16 connect id : 3 handle TLS handshake IP 127.0.0.1: , Port : 33034  --source flie : httpserver.cpp --line : 15
+[2025.12.23 14:07:54.959] [INFO ]: fd : 16 connect id : 3 handle TLS handshake IP 127.0.0.1: , Port : 33034  --source flie : httpserver.cpp --line : 15
+[2025.12.23 14:07:54.960] [INFO ]: fd : 16 connect id : 3 successful complete TLS handshake IP 127.0.0.1: , Port : 33034  --source flie : httpserver.cpp --line : 15
+[2025.12.23 14:07:55.003] [INFO ]: fd : 16 connect id : 3 handle request. IP 127.0.0.1: , Port : 33034  --source flie : httpserver.cpp --line : 15
+[2025.12.23 14:07:55.003] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.12.23 14:07:55.003] [INFO ]: fd : 16 connect id : 3 close. IP 127.0.0.1: , Port : 33034  --source flie : httpserver.cpp --line : 15

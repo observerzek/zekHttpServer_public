@@ -1,0 +1,46 @@
+[2025.11.21 13:28:34.614] [INFO ]: success to create MysqlConnectionPool  --source flie : mysqlpool.cpp --line : 71
+[2025.11.21 13:28:34.631] [INFO ]: initial ssl context  --source flie : sslContext.cpp --line : 41
+[2025.11.21 13:28:34.633] [INFO ]: successful open html file  --source flie : root.cpp --line : 23
+[2025.11.21 13:28:36.613] [INFO ]: fd : 16 connect id : 1 successful connect. IP 127.0.0.1: , Port : 50332  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:36.614] [INFO ]: fd : 16 connect id : 1 handle TLS handshake IP 127.0.0.1: , Port : 50332  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:36.615] [INFO ]: fd : 17 connect id : 2 successful connect. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:36.616] [INFO ]: fd : 17 connect id : 2 handle TLS handshake IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:36.637] [INFO ]: fd : 16 connect id : 1 handle TLS handshake IP 127.0.0.1: , Port : 50332  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:36.637] [INFO ]: fd : 16 connect id : 1 successful complete TLS handshake IP 127.0.0.1: , Port : 50332  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:36.645] [INFO ]: fd : 17 connect id : 2 handle TLS handshake IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:36.645] [INFO ]: fd : 17 connect id : 2 successful complete TLS handshake IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:36.659] [INFO ]: fd : 16 connect id : 1 handle request. IP 127.0.0.1: , Port : 50332  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:36.659] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:36.662] [INFO ]: fd : 16 connect id : 1 successful create http response. IP 127.0.0.1: , Port : 50332  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:36.686] [INFO ]: fd : 16 connect id : 1 close. IP 127.0.0.1: , Port : 50332  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:41.479] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:41.479] [INFO ]: 解析Hppt请求报文失败  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:41.484] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:41.484] [INFO ]: 解析Hppt请求报文失败  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:41.485] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:41.485] [INFO ]: 解析Hppt请求报文失败  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:41.511] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:41.511] [INFO ]: 解析Hppt请求报文失败  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:41.513] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:41.513] [INFO ]: 解析Hppt请求报文失败  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:41.574] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:41.574] [INFO ]: 解析Hppt请求报文失败  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:41.596] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:41.596] [INFO ]: 解析Hppt请求报文失败  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:41.603] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:41.603] [INFO ]: 解析Hppt请求报文失败  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:41.654] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:41.654] [INFO ]: 解析Hppt请求报文失败  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:41.656] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:41.656] [INFO ]: 解析Hppt请求报文失败  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:41.656] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:41.656] [INFO ]: 解析Hppt请求报文失败  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:41.681] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:41.681] [INFO ]: 解析Hppt请求报文失败  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:41.681] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:41.681] [INFO ]: 解析Hppt请求报文失败  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:41.685] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:41.685] [INFO ]: 解析Hppt请求报文失败  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:41.686] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:41.689] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:41.690] [INFO ]: fd : 17 connect id : 2 successful create http response. IP 127.0.0.1: , Port : 50348  --source flie : httpserver.cpp --line : 15

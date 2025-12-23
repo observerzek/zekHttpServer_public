@@ -1,0 +1,45 @@
+[2025.10.01 11:26:31.145] [INFO ]: fd : 10 successful connect. IP 127.0.0.1: , Port : 39620  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:26:31.145] [INFO ]: fd : 11 successful connect. IP 127.0.0.1: , Port : 39634  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:26:31.146] [INFO ]: fd : 10 handle request. IP 127.0.0.1: , Port : 39620  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:26:31.146] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.10.01 11:26:31.146] [INFO ]: fd : 10 successful create http response. IP 127.0.0.1: , Port : 39620  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:26:31.146] [INFO ]: fd : 11 handle request. IP 127.0.0.1: , Port : 39634  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:26:31.146] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.10.01 11:26:31.146] [INFO ]: fd : 11 successful create http response. IP 127.0.0.1: , Port : 39634  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:26:31.429] [INFO ]: fd : 11 close. IP 127.0.0.1: , Port : 39634  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:26:31.429] [INFO ]: fd : 12 successful connect. IP 127.0.0.1: , Port : 33164  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:26:31.479] [INFO ]: fd : 11 successful connect. IP 127.0.0.1: , Port : 33174  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:26:31.479] [INFO ]: fd : 10 close. IP 127.0.0.1: , Port : 39620  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:26:32.489] [INFO ]: fd : 12 handle request. IP 127.0.0.1: , Port : 33164  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:26:32.489] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.10.01 11:26:32.489] [INFO ]: fd : 12 method or path error, 404 not found. IP 127.0.0.1: , Port : 33164  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:26:38.496] [INFO ]: fd : 10 successful connect. IP 127.0.0.1: , Port : 33188  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:26:50.389] [INFO ]: fd : 11 handle request. IP 127.0.0.1: , Port : 33174  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:26:50.389] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.10.01 11:26:50.389] [INFO ]: fd : 11 successful create http response. IP 127.0.0.1: , Port : 33174  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:26:50.410] [INFO ]: fd : 11 close. IP 127.0.0.1: , Port : 33174  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:01.297] [INFO ]: fd : 10 handle request. IP 127.0.0.1: , Port : 33188  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:01.297] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.10.01 11:27:01.298] [INFO ]: fd : 10 successful create http response. IP 127.0.0.1: , Port : 33188  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:01.332] [INFO ]: fd : 11 successful connect. IP 127.0.0.1: , Port : 34292  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:01.332] [INFO ]: fd : 10 close. IP 127.0.0.1: , Port : 33188  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:03.491] [INFO ]: fd : 11 handle request. IP 127.0.0.1: , Port : 34292  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:03.491] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.10.01 11:27:03.491] [INFO ]: fd : 11 successful create http response. IP 127.0.0.1: , Port : 34292  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:03.517] [INFO ]: fd : 10 successful connect. IP 127.0.0.1: , Port : 39340  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:03.517] [INFO ]: fd : 11 close. IP 127.0.0.1: , Port : 34292  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:05.920] [INFO ]: fd : 10 handle request. IP 127.0.0.1: , Port : 39340  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:05.920] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.10.01 11:27:05.920] [INFO ]: fd : 10 successful create http response. IP 127.0.0.1: , Port : 39340  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:05.941] [INFO ]: fd : 11 successful connect. IP 127.0.0.1: , Port : 39350  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:05.941] [INFO ]: fd : 10 close. IP 127.0.0.1: , Port : 39340  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:07.903] [INFO ]: fd : 11 handle request. IP 127.0.0.1: , Port : 39350  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:07.903] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.10.01 11:27:07.903] [INFO ]: fd : 11 successful create http response. IP 127.0.0.1: , Port : 39350  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:07.923] [INFO ]: fd : 10 successful connect. IP 127.0.0.1: , Port : 39362  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:07.923] [INFO ]: fd : 11 close. IP 127.0.0.1: , Port : 39350  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:08.842] [INFO ]: fd : 10 handle request. IP 127.0.0.1: , Port : 39362  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:08.842] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.10.01 11:27:08.842] [INFO ]: fd : 10 successful create http response. IP 127.0.0.1: , Port : 39362  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:08.866] [INFO ]: fd : 11 successful connect. IP 127.0.0.1: , Port : 39364  --source flie : httpserver.cpp --line : 11
+[2025.10.01 11:27:08.866] [INFO ]: fd : 10 close. IP 127.0.0.1: , Port : 39362  --source flie : httpserver.cpp --line : 11

@@ -1,0 +1,570 @@
+[2025.12.04 09:51:27.157] [INFO ]: success to create MysqlConnectionPool  --source flie : mysqlpool.cpp --line : 71
+[2025.12.04 09:51:27.175] [INFO ]: initial ssl context  --source flie : sslContext.cpp --line : 41
+[2025.12.04 09:51:27.178] [INFO ]: successful open html file  --source flie : root.cpp --line : 23
+[2025.12.04 09:51:30.241] [INFO ]: fd : 16 connect id : 1 successful connect. IP 127.0.0.1: , Port : 53440  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:30.242] [INFO ]: fd : 17 connect id : 2 successful connect. IP 127.0.0.1: , Port : 53442  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:30.242] [INFO ]: fd : 16 connect id : 1 handle TLS handshake IP 127.0.0.1: , Port : 53440  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:30.242] [INFO ]: fd : 17 connect id : 2 handle TLS handshake IP 127.0.0.1: , Port : 53442  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:30.273] [INFO ]: fd : 16 connect id : 1 handle TLS handshake IP 127.0.0.1: , Port : 53440  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:30.273] [INFO ]: fd : 17 connect id : 2 handle TLS handshake IP 127.0.0.1: , Port : 53442  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:30.274] [INFO ]: fd : 17 connect id : 2 successful complete TLS handshake IP 127.0.0.1: , Port : 53442  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:30.274] [INFO ]: fd : 16 connect id : 1 successful complete TLS handshake IP 127.0.0.1: , Port : 53440  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:30.295] [INFO ]: fd : 16 connect id : 1 handle request. IP 127.0.0.1: , Port : 53440  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:30.296] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.12.04 09:51:30.304] [INFO ]: fd : 16 connect id : 1 successful create http response. IP 127.0.0.1: , Port : 53440  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:30.330] [INFO ]: fd : 16 connect id : 1 close. IP 127.0.0.1: , Port : 53440  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.553] [INFO ]: fd : 16 connect id : 3 successful connect. IP 127.0.0.1: , Port : 42868  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.553] [INFO ]: fd : 16 connect id : 3 handle TLS handshake IP 127.0.0.1: , Port : 42868  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.582] [INFO ]: fd : 16 connect id : 3 handle TLS handshake IP 127.0.0.1: , Port : 42868  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.583] [INFO ]: fd : 16 connect id : 3 successful complete TLS handshake IP 127.0.0.1: , Port : 42868  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.605] [INFO ]: fd : 16 connect id : 3 handle request. IP 127.0.0.1: , Port : 42868  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.606] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.12.04 09:51:38.607] [INFO ]: fd : 16 connect id : 3 close. IP 127.0.0.1: , Port : 42868  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.856] [INFO ]: fd : 16 connect id : 4 successful connect. IP 127.0.0.1: , Port : 42880  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.857] [INFO ]: fd : 16 connect id : 4 handle TLS handshake IP 127.0.0.1: , Port : 42880  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.864] [INFO ]: fd : 26 connect id : 5 successful connect. IP 127.0.0.1: , Port : 42896  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.864] [INFO ]: fd : 26 connect id : 5 handle TLS handshake IP 127.0.0.1: , Port : 42896  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.878] [INFO ]: fd : 16 connect id : 4 handle TLS handshake IP 127.0.0.1: , Port : 42880  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.878] [ERROR]: fd : 16, connect id : 4, send data : 0  --source flie : sslConnect.cpp --line : 67
+[2025.12.04 09:51:38.878] [ERROR]: fd : 16, connect id : 4, rest data : 758  --source flie : sslConnect.cpp --line : 68
+[2025.12.04 09:51:38.879] [INFO ]: fd : 16 connect id : 4 successful complete TLS handshake IP 127.0.0.1: , Port : 42880  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.879] [INFO ]: fd : 16 connect id : 4, has stuck  --source flie : httpserver.cpp --line : 167
+[2025.12.04 09:51:38.879] [INFO ]: fd : 16 connect id : 4 handle request. IP 127.0.0.1: , Port : 42880  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.879] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.12.04 09:51:38.879] [INFO ]: fd : 16 connect id : 4 close. IP 127.0.0.1: , Port : 42880  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.890] [INFO ]: fd : 26 connect id : 5 handle TLS handshake IP 127.0.0.1: , Port : 42896  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.891] [INFO ]: fd : 26 connect id : 5 successful complete TLS handshake IP 127.0.0.1: , Port : 42896  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:38.902] [INFO ]: fd : 26 connect id : 5 close. IP 127.0.0.1: , Port : 42896  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:43.299] [INFO ]: fd : 16 connect id : 6 successful connect. IP 127.0.0.1: , Port : 42912  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:43.300] [INFO ]: fd : 16 connect id : 6 handle TLS handshake IP 127.0.0.1: , Port : 42912  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:43.300] [INFO ]: fd : 26 connect id : 7 successful connect. IP 127.0.0.1: , Port : 42928  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:43.302] [INFO ]: fd : 26 connect id : 7 handle TLS handshake IP 127.0.0.1: , Port : 42928  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:43.324] [INFO ]: fd : 26 connect id : 7 handle TLS handshake IP 127.0.0.1: , Port : 42928  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:43.324] [INFO ]: fd : 26 connect id : 7 successful complete TLS handshake IP 127.0.0.1: , Port : 42928  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:43.325] [INFO ]: fd : 26 connect id : 7 handle request. IP 127.0.0.1: , Port : 42928  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:43.325] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.12.04 09:51:43.325] [INFO ]: fd : 26 connect id : 7 close. IP 127.0.0.1: , Port : 42928  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:43.832] [INFO ]: fd : 16 connect id : 6 handle TLS handshake IP 127.0.0.1: , Port : 42912  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:43.852] [INFO ]: fd : 16 connect id : 6 handle TLS handshake IP 127.0.0.1: , Port : 42912  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:43.852] [INFO ]: fd : 16 connect id : 6 successful complete TLS handshake IP 127.0.0.1: , Port : 42912  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:46.501] [INFO ]: fd : 16 connect id : 6 handle request. IP 127.0.0.1: , Port : 42912  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:46.501] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.12.04 09:51:46.502] [INFO ]: fd : 16 connect id : 6 close. IP 127.0.0.1: , Port : 42912  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:46.717] [INFO ]: fd : 16 connect id : 8 successful connect. IP 127.0.0.1: , Port : 50752  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:46.717] [INFO ]: fd : 16 connect id : 8 handle TLS handshake IP 127.0.0.1: , Port : 50752  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:46.739] [INFO ]: fd : 16 connect id : 8 handle TLS handshake IP 127.0.0.1: , Port : 50752  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:46.739] [INFO ]: fd : 16 connect id : 8 successful complete TLS handshake IP 127.0.0.1: , Port : 50752  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:47.139] [INFO ]: fd : 16 connect id : 8 handle request. IP 127.0.0.1: , Port : 50752  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:47.140] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.12.04 09:51:47.141] [INFO ]: fd : 16 connect id : 8 close. IP 127.0.0.1: , Port : 50752  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:47.364] [INFO ]: fd : 16 connect id : 9 successful connect. IP 127.0.0.1: , Port : 50764  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:47.364] [INFO ]: fd : 16 connect id : 9 handle TLS handshake IP 127.0.0.1: , Port : 50764  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:47.383] [INFO ]: fd : 16 connect id : 9 handle TLS handshake IP 127.0.0.1: , Port : 50764  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:47.383] [INFO ]: fd : 16 connect id : 9 successful complete TLS handshake IP 127.0.0.1: , Port : 50764  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:49.246] [INFO ]: fd : 16 connect id : 9 close. IP 127.0.0.1: , Port : 50764  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.218] [INFO ]: fd : 16 connect id : 10 successful connect. IP 127.0.0.1: , Port : 50768  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.218] [INFO ]: fd : 16 connect id : 10 handle TLS handshake IP 127.0.0.1: , Port : 50768  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.241] [INFO ]: fd : 16 connect id : 10 handle TLS handshake IP 127.0.0.1: , Port : 50768  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.241] [INFO ]: fd : 16 connect id : 10 successful complete TLS handshake IP 127.0.0.1: , Port : 50768  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.269] [INFO ]: fd : 16 connect id : 10 handle request. IP 127.0.0.1: , Port : 50768  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.269] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.12.04 09:51:53.269] [INFO ]: fd : 16 connect id : 10 close. IP 127.0.0.1: , Port : 50768  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.512] [INFO ]: fd : 16 connect id : 11 successful connect. IP 127.0.0.1: , Port : 50778  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.512] [INFO ]: fd : 16 connect id : 11 handle TLS handshake IP 127.0.0.1: , Port : 50778  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.514] [INFO ]: fd : 26 connect id : 12 successful connect. IP 127.0.0.1: , Port : 50780  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.514] [INFO ]: fd : 26 connect id : 12 handle TLS handshake IP 127.0.0.1: , Port : 50780  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.533] [INFO ]: fd : 16 connect id : 11 handle TLS handshake IP 127.0.0.1: , Port : 50778  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.533] [ERROR]: fd : 16, connect id : 11, send data : 0  --source flie : sslConnect.cpp --line : 67
+[2025.12.04 09:51:53.533] [ERROR]: fd : 16, connect id : 11, rest data : 758  --source flie : sslConnect.cpp --line : 68
+[2025.12.04 09:51:53.533] [INFO ]: fd : 16 connect id : 11 successful complete TLS handshake IP 127.0.0.1: , Port : 50778  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.533] [INFO ]: fd : 16 connect id : 11, has stuck  --source flie : httpserver.cpp --line : 167
+[2025.12.04 09:51:53.533] [INFO ]: fd : 16 connect id : 11 handle request. IP 127.0.0.1: , Port : 50778  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.533] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.12.04 09:51:53.533] [INFO ]: fd : 16 connect id : 11 close. IP 127.0.0.1: , Port : 50778  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.538] [INFO ]: fd : 26 connect id : 12 handle TLS handshake IP 127.0.0.1: , Port : 50780  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.538] [INFO ]: fd : 26 connect id : 12 successful complete TLS handshake IP 127.0.0.1: , Port : 50780  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:51:53.957] [INFO ]: fd : 26 connect id : 12 close. IP 127.0.0.1: , Port : 50780  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:28.390] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 53442  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:28.390] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.12.04 09:52:28.390] [INFO ]: fd : 17 connect id : 2 successful create http response. IP 127.0.0.1: , Port : 53442  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:32.970] [INFO ]: fd : 16 connect id : 13 successful connect. IP 127.0.0.1: , Port : 43700  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:32.970] [INFO ]: fd : 16 connect id : 13 handle TLS handshake IP 127.0.0.1: , Port : 43700  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:32.993] [INFO ]: fd : 16 connect id : 13 handle TLS handshake IP 127.0.0.1: , Port : 43700  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:32.993] [INFO ]: fd : 16 connect id : 13 successful complete TLS handshake IP 127.0.0.1: , Port : 43700  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:33.272] [INFO ]: fd : 16 connect id : 13 handle request. IP 127.0.0.1: , Port : 43700  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:33.272] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.12.04 09:52:33.273] [INFO ]: fd : 16 connect id : 13 successful create http response. IP 127.0.0.1: , Port : 43700  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:33.298] [INFO ]: fd : 16 connect id : 13 close. IP 127.0.0.1: , Port : 43700  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:33.300] [INFO ]: fd : 17 connect id : 2 close. IP 127.0.0.1: , Port : 53442  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:43.644] [INFO ]: fd : 16 connect id : 14 successful connect. IP 127.0.0.1: , Port : 41102  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:43.644] [INFO ]: fd : 16 connect id : 14 handle TLS handshake IP 127.0.0.1: , Port : 41102  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:43.715] [INFO ]: fd : 16 connect id : 14 handle TLS handshake IP 127.0.0.1: , Port : 41102  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:43.715] [ERROR]: fd : 16, connect id : 14, send data : 0  --source flie : sslConnect.cpp --line : 67
+[2025.12.04 09:52:43.715] [ERROR]: fd : 16, connect id : 14, rest data : 579  --source flie : sslConnect.cpp --line : 68
+[2025.12.04 09:52:43.715] [INFO ]: fd : 16 connect id : 14 successful complete TLS handshake IP 127.0.0.1: , Port : 41102  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:43.715] [INFO ]: fd : 16 connect id : 14, has stuck  --source flie : httpserver.cpp --line : 167
+[2025.12.04 09:52:43.715] [INFO ]: fd : 16 connect id : 14 handle request. IP 127.0.0.1: , Port : 41102  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:43.715] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.12.04 09:52:43.715] [INFO ]: fd : 16 connect id : 14 successful create http response. IP 127.0.0.1: , Port : 41102  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:52:43.716] [DEBUG]: fd : 16, connect id : 14, send 0 ~ 1024 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.717] [DEBUG]: fd : 16, connect id : 14, send 1024 ~ 2048 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.717] [DEBUG]: fd : 16, connect id : 14, send 2048 ~ 3072 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.717] [DEBUG]: fd : 16, connect id : 14, send 3072 ~ 4096 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.718] [DEBUG]: fd : 16, connect id : 14, send 4096 ~ 5120 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.718] [DEBUG]: fd : 16, connect id : 14, send 5120 ~ 6144 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.718] [DEBUG]: fd : 16, connect id : 14, send 6144 ~ 7168 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.719] [DEBUG]: fd : 16, connect id : 14, send 7168 ~ 8192 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.719] [DEBUG]: fd : 16, connect id : 14, send 8192 ~ 9216 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.719] [DEBUG]: fd : 16, connect id : 14, send 9216 ~ 10240 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.720] [DEBUG]: fd : 16, connect id : 14, send 10240 ~ 11264 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.720] [DEBUG]: fd : 16, connect id : 14, send 11264 ~ 12288 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.720] [DEBUG]: fd : 16, connect id : 14, send 12288 ~ 13312 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.720] [DEBUG]: fd : 16, connect id : 14, send 13312 ~ 14336 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.721] [DEBUG]: fd : 16, connect id : 14, send 14336 ~ 15360 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.721] [DEBUG]: fd : 16, connect id : 14, send 15360 ~ 16384 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.721] [DEBUG]: fd : 16, connect id : 14, send 16384 ~ 17408 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.722] [DEBUG]: fd : 16, connect id : 14, send 17408 ~ 18432 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.722] [DEBUG]: fd : 16, connect id : 14, send 18432 ~ 19456 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.722] [DEBUG]: fd : 16, connect id : 14, send 19456 ~ 20480 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.722] [DEBUG]: fd : 16, connect id : 14, send 20480 ~ 21504 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.723] [DEBUG]: fd : 16, connect id : 14, send 21504 ~ 22528 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.723] [DEBUG]: fd : 16, connect id : 14, send 22528 ~ 23552 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.723] [DEBUG]: fd : 16, connect id : 14, send 23552 ~ 24576 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.724] [DEBUG]: fd : 16, connect id : 14, send 24576 ~ 25600 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.724] [DEBUG]: fd : 16, connect id : 14, send 25600 ~ 26624 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.724] [DEBUG]: fd : 16, connect id : 14, send 26624 ~ 27648 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.724] [DEBUG]: fd : 16, connect id : 14, send 27648 ~ 28672 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.725] [DEBUG]: fd : 16, connect id : 14, send 28672 ~ 29696 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.725] [DEBUG]: fd : 16, connect id : 14, send 29696 ~ 30720 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.725] [DEBUG]: fd : 16, connect id : 14, send 30720 ~ 31744 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.725] [DEBUG]: fd : 16, connect id : 14, send 31744 ~ 32768 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.726] [DEBUG]: fd : 16, connect id : 14, send 32768 ~ 33792 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.726] [DEBUG]: fd : 16, connect id : 14, send 33792 ~ 34816 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.726] [DEBUG]: fd : 16, connect id : 14, send 34816 ~ 35840 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.727] [DEBUG]: fd : 16, connect id : 14, send 35840 ~ 36864 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.727] [DEBUG]: fd : 16, connect id : 14, send 36864 ~ 37888 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.727] [DEBUG]: fd : 16, connect id : 14, send 37888 ~ 38912 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.727] [DEBUG]: fd : 16, connect id : 14, send 38912 ~ 39936 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.728] [DEBUG]: fd : 16, connect id : 14, send 39936 ~ 40960 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.728] [DEBUG]: fd : 16, connect id : 14, send 40960 ~ 41984 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.728] [DEBUG]: fd : 16, connect id : 14, send 41984 ~ 43008 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.728] [DEBUG]: fd : 16, connect id : 14, send 43008 ~ 44032 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.729] [DEBUG]: fd : 16, connect id : 14, send 44032 ~ 45056 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.729] [DEBUG]: fd : 16, connect id : 14, send 45056 ~ 46080 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.729] [DEBUG]: fd : 16, connect id : 14, send 46080 ~ 47104 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.730] [DEBUG]: fd : 16, connect id : 14, send 47104 ~ 48128 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.730] [DEBUG]: fd : 16, connect id : 14, send 48128 ~ 49152 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.730] [DEBUG]: fd : 16, connect id : 14, send 49152 ~ 50176 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.730] [DEBUG]: fd : 16, connect id : 14, send 50176 ~ 51200 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.731] [DEBUG]: fd : 16, connect id : 14, send 51200 ~ 52224 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.731] [DEBUG]: fd : 16, connect id : 14, send 52224 ~ 53248 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.731] [DEBUG]: fd : 16, connect id : 14, send 53248 ~ 54272 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.731] [DEBUG]: fd : 16, connect id : 14, send 54272 ~ 55296 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.732] [DEBUG]: fd : 16, connect id : 14, send 55296 ~ 56320 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.732] [DEBUG]: fd : 16, connect id : 14, send 56320 ~ 57344 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.732] [DEBUG]: fd : 16, connect id : 14, send 57344 ~ 58368 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.732] [DEBUG]: fd : 16, connect id : 14, send 58368 ~ 59392 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.733] [DEBUG]: fd : 16, connect id : 14, send 59392 ~ 60416 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.733] [DEBUG]: fd : 16, connect id : 14, send 60416 ~ 61440 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.733] [DEBUG]: fd : 16, connect id : 14, send 61440 ~ 62464 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.734] [DEBUG]: fd : 16, connect id : 14, send 62464 ~ 63488 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.734] [DEBUG]: fd : 16, connect id : 14, send 63488 ~ 64512 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.734] [DEBUG]: fd : 16, connect id : 14, send 64512 ~ 65536 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.735] [DEBUG]: fd : 16, connect id : 14, send 65536 ~ 66560 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.735] [DEBUG]: fd : 16, connect id : 14, send 66560 ~ 67584 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.735] [DEBUG]: fd : 16, connect id : 14, send 67584 ~ 68608 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.735] [DEBUG]: fd : 16, connect id : 14, send 68608 ~ 69632 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.736] [DEBUG]: fd : 16, connect id : 14, send 69632 ~ 70656 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.736] [DEBUG]: fd : 16, connect id : 14, send 70656 ~ 71680 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.736] [DEBUG]: fd : 16, connect id : 14, send 71680 ~ 72704 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.737] [DEBUG]: fd : 16, connect id : 14, send 72704 ~ 73728 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.737] [DEBUG]: fd : 16, connect id : 14, send 73728 ~ 74752 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.737] [DEBUG]: fd : 16, connect id : 14, send 74752 ~ 75776 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.737] [DEBUG]: fd : 16, connect id : 14, send 75776 ~ 76800 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.737] [DEBUG]: fd : 16, connect id : 14, send 76800 ~ 77824 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.738] [DEBUG]: fd : 16, connect id : 14, send 77824 ~ 78848 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.738] [DEBUG]: fd : 16, connect id : 14, send 78848 ~ 79872 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.738] [DEBUG]: fd : 16, connect id : 14, send 79872 ~ 80896 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.738] [DEBUG]: fd : 16, connect id : 14, send 80896 ~ 81920 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.738] [DEBUG]: fd : 16, connect id : 14, send 81920 ~ 82944 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.738] [DEBUG]: fd : 16, connect id : 14, send 82944 ~ 83968 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.739] [DEBUG]: fd : 16, connect id : 14, send 83968 ~ 84992 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.739] [DEBUG]: fd : 16, connect id : 14, send 84992 ~ 86016 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.739] [DEBUG]: fd : 16, connect id : 14, send 86016 ~ 87040 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.739] [DEBUG]: fd : 16, connect id : 14, send 87040 ~ 88064 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.739] [DEBUG]: fd : 16, connect id : 14, send 88064 ~ 89088 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.740] [DEBUG]: fd : 16, connect id : 14, send 89088 ~ 90112 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.740] [DEBUG]: fd : 16, connect id : 14, send 90112 ~ 91136 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.740] [DEBUG]: fd : 16, connect id : 14, send 91136 ~ 92160 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.740] [DEBUG]: fd : 16, connect id : 14, send 92160 ~ 93184 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.740] [DEBUG]: fd : 16, connect id : 14, send 93184 ~ 94208 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.741] [DEBUG]: fd : 16, connect id : 14, send 94208 ~ 95232 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.741] [DEBUG]: fd : 16, connect id : 14, send 95232 ~ 96256 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.741] [DEBUG]: fd : 16, connect id : 14, send 96256 ~ 97280 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.741] [DEBUG]: fd : 16, connect id : 14, send 97280 ~ 98304 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.742] [DEBUG]: fd : 16, connect id : 14, send 98304 ~ 99328 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.742] [DEBUG]: fd : 16, connect id : 14, send 99328 ~ 100352 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.742] [DEBUG]: fd : 16, connect id : 14, send 100352 ~ 101376 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.742] [DEBUG]: fd : 16, connect id : 14, send 101376 ~ 102400 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.742] [DEBUG]: fd : 16, connect id : 14, send 102400 ~ 103424 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.742] [DEBUG]: fd : 16, connect id : 14, send 103424 ~ 104448 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.742] [DEBUG]: fd : 16, connect id : 14, send 104448 ~ 105472 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.743] [DEBUG]: fd : 16, connect id : 14, send 105472 ~ 106496 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.743] [DEBUG]: fd : 16, connect id : 14, send 106496 ~ 107520 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.743] [DEBUG]: fd : 16, connect id : 14, send 107520 ~ 108544 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.743] [DEBUG]: fd : 16, connect id : 14, send 108544 ~ 109568 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.743] [DEBUG]: fd : 16, connect id : 14, send 109568 ~ 110592 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.743] [DEBUG]: fd : 16, connect id : 14, send 110592 ~ 111616 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.743] [DEBUG]: fd : 16, connect id : 14, send 111616 ~ 112640 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.743] [DEBUG]: fd : 16, connect id : 14, send 112640 ~ 113664 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.744] [DEBUG]: fd : 16, connect id : 14, send 113664 ~ 114688 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.744] [DEBUG]: fd : 16, connect id : 14, send 114688 ~ 115712 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.744] [DEBUG]: fd : 16, connect id : 14, send 115712 ~ 116736 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.744] [DEBUG]: fd : 16, connect id : 14, send 116736 ~ 117760 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.744] [DEBUG]: fd : 16, connect id : 14, send 117760 ~ 118784 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.744] [DEBUG]: fd : 16, connect id : 14, send 118784 ~ 119808 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.745] [DEBUG]: fd : 16, connect id : 14, send 119808 ~ 120832 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.745] [DEBUG]: fd : 16, connect id : 14, send 120832 ~ 121856 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.745] [DEBUG]: fd : 16, connect id : 14, send 121856 ~ 122880 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.745] [DEBUG]: fd : 16, connect id : 14, send 122880 ~ 123904 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.745] [DEBUG]: fd : 16, connect id : 14, send 123904 ~ 124928 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.745] [DEBUG]: fd : 16, connect id : 14, send 124928 ~ 125952 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.745] [DEBUG]: fd : 16, connect id : 14, send 125952 ~ 126976 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.746] [DEBUG]: fd : 16, connect id : 14, send 126976 ~ 128000 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.746] [DEBUG]: fd : 16, connect id : 14, send 128000 ~ 129024 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.746] [DEBUG]: fd : 16, connect id : 14, send 129024 ~ 130048 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.746] [DEBUG]: fd : 16, connect id : 14, send 130048 ~ 131072 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.746] [DEBUG]: fd : 16, connect id : 14, send 131072 ~ 132096 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.746] [DEBUG]: fd : 16, connect id : 14, send 132096 ~ 133120 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.746] [DEBUG]: fd : 16, connect id : 14, send 133120 ~ 134144 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.746] [DEBUG]: fd : 16, connect id : 14, send 134144 ~ 135168 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.747] [DEBUG]: fd : 16, connect id : 14, send 135168 ~ 136192 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.747] [DEBUG]: fd : 16, connect id : 14, send 136192 ~ 137216 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.747] [DEBUG]: fd : 16, connect id : 14, send 137216 ~ 138240 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.747] [DEBUG]: fd : 16, connect id : 14, send 138240 ~ 139264 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.747] [DEBUG]: fd : 16, connect id : 14, send 139264 ~ 140288 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.747] [DEBUG]: fd : 16, connect id : 14, send 140288 ~ 141312 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.747] [DEBUG]: fd : 16, connect id : 14, send 141312 ~ 142336 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.747] [DEBUG]: fd : 16, connect id : 14, send 142336 ~ 143360 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.747] [DEBUG]: fd : 16, connect id : 14, send 143360 ~ 144384 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.748] [DEBUG]: fd : 16, connect id : 14, send 144384 ~ 145408 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.748] [DEBUG]: fd : 16, connect id : 14, send 145408 ~ 146432 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.748] [DEBUG]: fd : 16, connect id : 14, send 146432 ~ 147456 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.748] [DEBUG]: fd : 16, connect id : 14, send 147456 ~ 148480 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.748] [DEBUG]: fd : 16, connect id : 14, send 148480 ~ 149504 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.748] [DEBUG]: fd : 16, connect id : 14, send 149504 ~ 150528 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.748] [DEBUG]: fd : 16, connect id : 14, send 150528 ~ 151552 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.748] [DEBUG]: fd : 16, connect id : 14, send 151552 ~ 152576 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.749] [DEBUG]: fd : 16, connect id : 14, send 152576 ~ 153600 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.749] [DEBUG]: fd : 16, connect id : 14, send 153600 ~ 154624 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.749] [DEBUG]: fd : 16, connect id : 14, send 154624 ~ 155648 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.749] [DEBUG]: fd : 16, connect id : 14, send 155648 ~ 156672 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.749] [DEBUG]: fd : 16, connect id : 14, send 156672 ~ 157696 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.749] [DEBUG]: fd : 16, connect id : 14, send 157696 ~ 158720 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.749] [DEBUG]: fd : 16, connect id : 14, send 158720 ~ 159744 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.749] [DEBUG]: fd : 16, connect id : 14, send 159744 ~ 160768 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.749] [DEBUG]: fd : 16, connect id : 14, send 160768 ~ 161792 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.749] [DEBUG]: fd : 16, connect id : 14, send 161792 ~ 162816 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.750] [DEBUG]: fd : 16, connect id : 14, send 162816 ~ 163840 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.750] [DEBUG]: fd : 16, connect id : 14, send 163840 ~ 164864 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.750] [DEBUG]: fd : 16, connect id : 14, send 164864 ~ 165888 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.750] [DEBUG]: fd : 16, connect id : 14, send 165888 ~ 166912 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.750] [DEBUG]: fd : 16, connect id : 14, send 166912 ~ 167936 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.750] [DEBUG]: fd : 16, connect id : 14, send 167936 ~ 168960 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.750] [DEBUG]: fd : 16, connect id : 14, send 168960 ~ 169984 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.750] [DEBUG]: fd : 16, connect id : 14, send 169984 ~ 171008 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.750] [DEBUG]: fd : 16, connect id : 14, send 171008 ~ 172032 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.750] [DEBUG]: fd : 16, connect id : 14, send 172032 ~ 173056 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.750] [DEBUG]: fd : 16, connect id : 14, send 173056 ~ 174080 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.751] [DEBUG]: fd : 16, connect id : 14, send 174080 ~ 175104 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.751] [DEBUG]: fd : 16, connect id : 14, send 175104 ~ 176128 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.751] [DEBUG]: fd : 16, connect id : 14, send 176128 ~ 177152 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.751] [DEBUG]: fd : 16, connect id : 14, send 177152 ~ 178176 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.751] [DEBUG]: fd : 16, connect id : 14, send 178176 ~ 179200 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.751] [DEBUG]: fd : 16, connect id : 14, send 179200 ~ 180224 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.751] [DEBUG]: fd : 16, connect id : 14, send 180224 ~ 181248 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.751] [DEBUG]: fd : 16, connect id : 14, send 181248 ~ 182272 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.751] [DEBUG]: fd : 16, connect id : 14, send 182272 ~ 183296 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.751] [DEBUG]: fd : 16, connect id : 14, send 183296 ~ 184320 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.751] [DEBUG]: fd : 16, connect id : 14, send 184320 ~ 185344 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.752] [DEBUG]: fd : 16, connect id : 14, send 185344 ~ 186368 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.752] [DEBUG]: fd : 16, connect id : 14, send 186368 ~ 187392 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.752] [DEBUG]: fd : 16, connect id : 14, send 187392 ~ 188416 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.752] [DEBUG]: fd : 16, connect id : 14, send 188416 ~ 189440 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.752] [DEBUG]: fd : 16, connect id : 14, send 189440 ~ 190464 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.752] [DEBUG]: fd : 16, connect id : 14, send 190464 ~ 191488 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.752] [DEBUG]: fd : 16, connect id : 14, send 191488 ~ 192512 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.752] [DEBUG]: fd : 16, connect id : 14, send 192512 ~ 193536 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.752] [DEBUG]: fd : 16, connect id : 14, send 193536 ~ 194560 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.752] [DEBUG]: fd : 16, connect id : 14, send 194560 ~ 195584 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.752] [DEBUG]: fd : 16, connect id : 14, send 195584 ~ 196608 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.752] [DEBUG]: fd : 16, connect id : 14, send 196608 ~ 197632 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.752] [DEBUG]: fd : 16, connect id : 14, send 197632 ~ 198656 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.753] [DEBUG]: fd : 16, connect id : 14, send 198656 ~ 199680 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.753] [DEBUG]: fd : 16, connect id : 14, send 199680 ~ 200704 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.753] [DEBUG]: fd : 16, connect id : 14, send 200704 ~ 201728 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.753] [DEBUG]: fd : 16, connect id : 14, send 201728 ~ 202752 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.753] [DEBUG]: fd : 16, connect id : 14, send 202752 ~ 203776 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.753] [DEBUG]: fd : 16, connect id : 14, send 203776 ~ 204800 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.753] [DEBUG]: fd : 16, connect id : 14, send 204800 ~ 205824 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.753] [DEBUG]: fd : 16, connect id : 14, send 205824 ~ 206848 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.753] [DEBUG]: fd : 16, connect id : 14, send 206848 ~ 207872 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.753] [DEBUG]: fd : 16, connect id : 14, send 207872 ~ 208896 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.753] [DEBUG]: fd : 16, connect id : 14, send 208896 ~ 209920 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.754] [DEBUG]: fd : 16, connect id : 14, send 209920 ~ 210944 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.754] [DEBUG]: fd : 16, connect id : 14, send 210944 ~ 211968 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.754] [DEBUG]: fd : 16, connect id : 14, send 211968 ~ 212992 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.754] [DEBUG]: fd : 16, connect id : 14, send 212992 ~ 214016 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.754] [DEBUG]: fd : 16, connect id : 14, send 214016 ~ 215040 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.754] [DEBUG]: fd : 16, connect id : 14, send 215040 ~ 216064 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.754] [DEBUG]: fd : 16, connect id : 14, send 216064 ~ 217088 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.754] [DEBUG]: fd : 16, connect id : 14, send 217088 ~ 218112 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.754] [DEBUG]: fd : 16, connect id : 14, send 218112 ~ 219136 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.754] [DEBUG]: fd : 16, connect id : 14, send 219136 ~ 220160 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.755] [DEBUG]: fd : 16, connect id : 14, send 220160 ~ 221184 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.755] [DEBUG]: fd : 16, connect id : 14, send 221184 ~ 222208 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.755] [DEBUG]: fd : 16, connect id : 14, send 222208 ~ 223232 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.755] [DEBUG]: fd : 16, connect id : 14, send 223232 ~ 224256 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.755] [DEBUG]: fd : 16, connect id : 14, send 224256 ~ 225280 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.755] [DEBUG]: fd : 16, connect id : 14, send 225280 ~ 226304 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.755] [DEBUG]: fd : 16, connect id : 14, send 226304 ~ 227328 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.755] [DEBUG]: fd : 16, connect id : 14, send 227328 ~ 228352 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.755] [DEBUG]: fd : 16, connect id : 14, send 228352 ~ 229376 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.755] [DEBUG]: fd : 16, connect id : 14, send 229376 ~ 230400 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.755] [DEBUG]: fd : 16, connect id : 14, send 230400 ~ 231424 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.755] [DEBUG]: fd : 16, connect id : 14, send 231424 ~ 232448 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.756] [DEBUG]: fd : 16, connect id : 14, send 232448 ~ 233472 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.756] [DEBUG]: fd : 16, connect id : 14, send 233472 ~ 234496 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.756] [DEBUG]: fd : 16, connect id : 14, send 234496 ~ 235520 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.756] [DEBUG]: fd : 16, connect id : 14, send 235520 ~ 236544 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.756] [DEBUG]: fd : 16, connect id : 14, send 236544 ~ 237568 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.756] [DEBUG]: fd : 16, connect id : 14, send 237568 ~ 238592 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.756] [DEBUG]: fd : 16, connect id : 14, send 238592 ~ 239616 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.756] [DEBUG]: fd : 16, connect id : 14, send 239616 ~ 240640 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.756] [DEBUG]: fd : 16, connect id : 14, send 240640 ~ 241664 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.756] [DEBUG]: fd : 16, connect id : 14, send 241664 ~ 242688 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.757] [DEBUG]: fd : 16, connect id : 14, send 242688 ~ 243712 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.757] [DEBUG]: fd : 16, connect id : 14, send 243712 ~ 244736 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.757] [DEBUG]: fd : 16, connect id : 14, send 244736 ~ 245760 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.757] [DEBUG]: fd : 16, connect id : 14, send 245760 ~ 246784 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.757] [DEBUG]: fd : 16, connect id : 14, send 246784 ~ 247808 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.757] [DEBUG]: fd : 16, connect id : 14, send 247808 ~ 248832 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.757] [DEBUG]: fd : 16, connect id : 14, send 248832 ~ 249856 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.757] [DEBUG]: fd : 16, connect id : 14, send 249856 ~ 250880 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.757] [DEBUG]: fd : 16, connect id : 14, send 250880 ~ 251904 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.757] [DEBUG]: fd : 16, connect id : 14, send 251904 ~ 252928 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.757] [DEBUG]: fd : 16, connect id : 14, send 252928 ~ 253952 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.757] [DEBUG]: fd : 16, connect id : 14, send 253952 ~ 254976 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.757] [DEBUG]: fd : 16, connect id : 14, send 254976 ~ 256000 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.758] [DEBUG]: fd : 16, connect id : 14, send 256000 ~ 257024 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.758] [DEBUG]: fd : 16, connect id : 14, send 257024 ~ 258048 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.758] [DEBUG]: fd : 16, connect id : 14, send 258048 ~ 259072 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.758] [DEBUG]: fd : 16, connect id : 14, send 259072 ~ 260096 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.758] [DEBUG]: fd : 16, connect id : 14, send 260096 ~ 261120 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.758] [DEBUG]: fd : 16, connect id : 14, send 261120 ~ 262144 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.758] [DEBUG]: fd : 16, connect id : 14, send 262144 ~ 263168 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.758] [DEBUG]: fd : 16, connect id : 14, send 263168 ~ 264192 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.758] [DEBUG]: fd : 16, connect id : 14, send 264192 ~ 265216 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.758] [DEBUG]: fd : 16, connect id : 14, send 265216 ~ 266240 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.758] [DEBUG]: fd : 16, connect id : 14, send 266240 ~ 267264 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.758] [DEBUG]: fd : 16, connect id : 14, send 267264 ~ 268288 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.758] [DEBUG]: fd : 16, connect id : 14, send 268288 ~ 269312 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.759] [DEBUG]: fd : 16, connect id : 14, send 269312 ~ 270336 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.759] [DEBUG]: fd : 16, connect id : 14, send 270336 ~ 271360 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.759] [DEBUG]: fd : 16, connect id : 14, send 271360 ~ 272384 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.759] [DEBUG]: fd : 16, connect id : 14, send 272384 ~ 273408 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.759] [DEBUG]: fd : 16, connect id : 14, send 273408 ~ 274432 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.759] [DEBUG]: fd : 16, connect id : 14, send 274432 ~ 275456 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.759] [DEBUG]: fd : 16, connect id : 14, send 275456 ~ 276480 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.759] [DEBUG]: fd : 16, connect id : 14, send 276480 ~ 277504 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.759] [DEBUG]: fd : 16, connect id : 14, send 277504 ~ 278528 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.759] [DEBUG]: fd : 16, connect id : 14, send 278528 ~ 279552 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.759] [DEBUG]: fd : 16, connect id : 14, send 279552 ~ 280576 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.759] [DEBUG]: fd : 16, connect id : 14, send 280576 ~ 281600 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.759] [DEBUG]: fd : 16, connect id : 14, send 281600 ~ 282624 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.759] [DEBUG]: fd : 16, connect id : 14, send 282624 ~ 283648 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.759] [DEBUG]: fd : 16, connect id : 14, send 283648 ~ 284672 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.760] [DEBUG]: fd : 16, connect id : 14, send 284672 ~ 285696 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.760] [DEBUG]: fd : 16, connect id : 14, send 285696 ~ 286720 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.760] [DEBUG]: fd : 16, connect id : 14, send 286720 ~ 287744 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.760] [DEBUG]: fd : 16, connect id : 14, send 287744 ~ 288768 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.760] [DEBUG]: fd : 16, connect id : 14, send 288768 ~ 289792 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.760] [DEBUG]: fd : 16, connect id : 14, send 289792 ~ 290816 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.760] [DEBUG]: fd : 16, connect id : 14, send 290816 ~ 291840 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.760] [DEBUG]: fd : 16, connect id : 14, send 291840 ~ 292864 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.760] [DEBUG]: fd : 16, connect id : 14, send 292864 ~ 293888 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.760] [DEBUG]: fd : 16, connect id : 14, send 293888 ~ 294912 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.760] [DEBUG]: fd : 16, connect id : 14, send 294912 ~ 295936 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.760] [DEBUG]: fd : 16, connect id : 14, send 295936 ~ 296960 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.760] [DEBUG]: fd : 16, connect id : 14, send 296960 ~ 297984 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.761] [DEBUG]: fd : 16, connect id : 14, send 297984 ~ 299008 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.761] [DEBUG]: fd : 16, connect id : 14, send 299008 ~ 300032 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.761] [DEBUG]: fd : 16, connect id : 14, send 300032 ~ 301056 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.761] [DEBUG]: fd : 16, connect id : 14, send 301056 ~ 302080 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.761] [DEBUG]: fd : 16, connect id : 14, send 302080 ~ 303104 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.761] [DEBUG]: fd : 16, connect id : 14, send 303104 ~ 304128 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.761] [DEBUG]: fd : 16, connect id : 14, send 304128 ~ 305152 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.761] [DEBUG]: fd : 16, connect id : 14, send 305152 ~ 306176 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.761] [DEBUG]: fd : 16, connect id : 14, send 306176 ~ 307200 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.761] [DEBUG]: fd : 16, connect id : 14, send 307200 ~ 308224 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.761] [DEBUG]: fd : 16, connect id : 14, send 308224 ~ 309248 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.761] [DEBUG]: fd : 16, connect id : 14, send 309248 ~ 310272 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.761] [DEBUG]: fd : 16, connect id : 14, send 310272 ~ 311296 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.761] [DEBUG]: fd : 16, connect id : 14, send 311296 ~ 312320 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.761] [DEBUG]: fd : 16, connect id : 14, send 312320 ~ 313344 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.762] [DEBUG]: fd : 16, connect id : 14, send 313344 ~ 314368 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.762] [DEBUG]: fd : 16, connect id : 14, send 314368 ~ 315392 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.762] [DEBUG]: fd : 16, connect id : 14, send 315392 ~ 316416 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.762] [DEBUG]: fd : 16, connect id : 14, send 316416 ~ 317440 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.762] [DEBUG]: fd : 16, connect id : 14, send 317440 ~ 318464 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.762] [DEBUG]: fd : 16, connect id : 14, send 318464 ~ 319488 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.762] [DEBUG]: fd : 16, connect id : 14, send 319488 ~ 320512 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.762] [DEBUG]: fd : 16, connect id : 14, send 320512 ~ 321536 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.762] [DEBUG]: fd : 16, connect id : 14, send 321536 ~ 322560 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.762] [DEBUG]: fd : 16, connect id : 14, send 322560 ~ 323584 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.762] [DEBUG]: fd : 16, connect id : 14, send 323584 ~ 324608 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.762] [DEBUG]: fd : 16, connect id : 14, send 324608 ~ 325632 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.762] [DEBUG]: fd : 16, connect id : 14, send 325632 ~ 326656 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.762] [DEBUG]: fd : 16, connect id : 14, send 326656 ~ 327680 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.763] [DEBUG]: fd : 16, connect id : 14, send 327680 ~ 328704 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.763] [DEBUG]: fd : 16, connect id : 14, send 328704 ~ 329728 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.763] [DEBUG]: fd : 16, connect id : 14, send 329728 ~ 330752 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.763] [DEBUG]: fd : 16, connect id : 14, send 330752 ~ 331776 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.763] [DEBUG]: fd : 16, connect id : 14, send 331776 ~ 332800 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.763] [DEBUG]: fd : 16, connect id : 14, send 332800 ~ 333824 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.763] [DEBUG]: fd : 16, connect id : 14, send 333824 ~ 334848 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.763] [DEBUG]: fd : 16, connect id : 14, send 334848 ~ 335872 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.763] [DEBUG]: fd : 16, connect id : 14, send 335872 ~ 336896 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.763] [DEBUG]: fd : 16, connect id : 14, send 336896 ~ 337920 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.763] [DEBUG]: fd : 16, connect id : 14, send 337920 ~ 338944 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.763] [DEBUG]: fd : 16, connect id : 14, send 338944 ~ 339968 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.763] [DEBUG]: fd : 16, connect id : 14, send 339968 ~ 340992 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.763] [DEBUG]: fd : 16, connect id : 14, send 340992 ~ 342016 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.763] [DEBUG]: fd : 16, connect id : 14, send 342016 ~ 343040 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.764] [DEBUG]: fd : 16, connect id : 14, send 343040 ~ 344064 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.764] [DEBUG]: fd : 16, connect id : 14, send 344064 ~ 345088 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.764] [DEBUG]: fd : 16, connect id : 14, send 345088 ~ 346112 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.764] [DEBUG]: fd : 16, connect id : 14, send 346112 ~ 347136 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.764] [DEBUG]: fd : 16, connect id : 14, send 347136 ~ 348160 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.764] [DEBUG]: fd : 16, connect id : 14, send 348160 ~ 349184 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.764] [DEBUG]: fd : 16, connect id : 14, send 349184 ~ 350208 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.764] [DEBUG]: fd : 16, connect id : 14, send 350208 ~ 351232 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.764] [DEBUG]: fd : 16, connect id : 14, send 351232 ~ 352256 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.764] [DEBUG]: fd : 16, connect id : 14, send 352256 ~ 353280 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.764] [DEBUG]: fd : 16, connect id : 14, send 353280 ~ 354304 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.764] [DEBUG]: fd : 16, connect id : 14, send 354304 ~ 355328 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.764] [DEBUG]: fd : 16, connect id : 14, send 355328 ~ 356352 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.764] [DEBUG]: fd : 16, connect id : 14, send 356352 ~ 357376 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.764] [DEBUG]: fd : 16, connect id : 14, send 357376 ~ 358400 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.765] [DEBUG]: fd : 16, connect id : 14, send 358400 ~ 359424 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.765] [DEBUG]: fd : 16, connect id : 14, send 359424 ~ 360448 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.765] [DEBUG]: fd : 16, connect id : 14, send 360448 ~ 361472 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.765] [DEBUG]: fd : 16, connect id : 14, send 361472 ~ 362496 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.765] [DEBUG]: fd : 16, connect id : 14, send 362496 ~ 363520 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.765] [DEBUG]: fd : 16, connect id : 14, send 363520 ~ 364544 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.765] [DEBUG]: fd : 16, connect id : 14, send 364544 ~ 365568 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.765] [DEBUG]: fd : 16, connect id : 14, send 365568 ~ 366592 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.765] [DEBUG]: fd : 16, connect id : 14, send 366592 ~ 367616 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.765] [DEBUG]: fd : 16, connect id : 14, send 367616 ~ 368640 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.765] [DEBUG]: fd : 16, connect id : 14, send 368640 ~ 369664 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.765] [DEBUG]: fd : 16, connect id : 14, send 369664 ~ 370688 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.765] [DEBUG]: fd : 16, connect id : 14, send 370688 ~ 371712 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.765] [DEBUG]: fd : 16, connect id : 14, send 371712 ~ 372736 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.765] [DEBUG]: fd : 16, connect id : 14, send 372736 ~ 373760 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.766] [DEBUG]: fd : 16, connect id : 14, send 373760 ~ 374784 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.766] [DEBUG]: fd : 16, connect id : 14, send 374784 ~ 375808 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.766] [DEBUG]: fd : 16, connect id : 14, send 375808 ~ 376832 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.766] [DEBUG]: fd : 16, connect id : 14, send 376832 ~ 377856 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.766] [DEBUG]: fd : 16, connect id : 14, send 377856 ~ 378880 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.766] [DEBUG]: fd : 16, connect id : 14, send 378880 ~ 379904 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.766] [DEBUG]: fd : 16, connect id : 14, send 379904 ~ 380928 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.766] [DEBUG]: fd : 16, connect id : 14, send 380928 ~ 381952 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.766] [DEBUG]: fd : 16, connect id : 14, send 381952 ~ 382976 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.766] [DEBUG]: fd : 16, connect id : 14, send 382976 ~ 384000 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.766] [DEBUG]: fd : 16, connect id : 14, send 384000 ~ 385024 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.766] [DEBUG]: fd : 16, connect id : 14, send 385024 ~ 386048 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.766] [DEBUG]: fd : 16, connect id : 14, send 386048 ~ 387072 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.766] [DEBUG]: fd : 16, connect id : 14, send 387072 ~ 388096 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.766] [DEBUG]: fd : 16, connect id : 14, send 388096 ~ 389120 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.767] [DEBUG]: fd : 16, connect id : 14, send 389120 ~ 390144 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.767] [DEBUG]: fd : 16, connect id : 14, send 390144 ~ 391168 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.767] [DEBUG]: fd : 16, connect id : 14, send 391168 ~ 392192 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.767] [DEBUG]: fd : 16, connect id : 14, send 392192 ~ 393216 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.767] [DEBUG]: fd : 16, connect id : 14, send 393216 ~ 394240 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.767] [DEBUG]: fd : 16, connect id : 14, send 394240 ~ 395264 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.767] [DEBUG]: fd : 16, connect id : 14, send 395264 ~ 396288 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.767] [DEBUG]: fd : 16, connect id : 14, send 396288 ~ 397312 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.767] [DEBUG]: fd : 16, connect id : 14, send 397312 ~ 398336 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.767] [DEBUG]: fd : 16, connect id : 14, send 398336 ~ 399360 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.767] [DEBUG]: fd : 16, connect id : 14, send 399360 ~ 400384 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.767] [DEBUG]: fd : 16, connect id : 14, send 400384 ~ 401408 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.767] [DEBUG]: fd : 16, connect id : 14, send 401408 ~ 402432 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.767] [DEBUG]: fd : 16, connect id : 14, send 402432 ~ 403456 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.767] [DEBUG]: fd : 16, connect id : 14, send 403456 ~ 404480 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.767] [DEBUG]: fd : 16, connect id : 14, send 404480 ~ 405504 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 405504 ~ 406528 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 406528 ~ 407552 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 407552 ~ 408576 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 408576 ~ 409600 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 409600 ~ 410624 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 410624 ~ 411648 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 411648 ~ 412672 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 412672 ~ 413696 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 413696 ~ 414720 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 414720 ~ 415744 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 415744 ~ 416768 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 416768 ~ 417792 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 417792 ~ 418816 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 418816 ~ 419840 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 419840 ~ 420864 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 420864 ~ 421888 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.768] [DEBUG]: fd : 16, connect id : 14, send 421888 ~ 422912 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.769] [DEBUG]: fd : 16, connect id : 14, send 422912 ~ 423936 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.769] [DEBUG]: fd : 16, connect id : 14, send 423936 ~ 424960 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.769] [DEBUG]: fd : 16, connect id : 14, send 424960 ~ 425984 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.769] [DEBUG]: fd : 16, connect id : 14, send 425984 ~ 427008 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.769] [DEBUG]: fd : 16, connect id : 14, send 427008 ~ 428032 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.769] [DEBUG]: fd : 16, connect id : 14, send 428032 ~ 429056 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.769] [DEBUG]: fd : 16, connect id : 14, send 429056 ~ 430080 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.769] [DEBUG]: fd : 16, connect id : 14, send 430080 ~ 431104 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.769] [DEBUG]: fd : 16, connect id : 14, send 431104 ~ 431130 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:52:43.856] [INFO ]: fd : 16 connect id : 14 close. IP 127.0.0.1: , Port : 41102  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:09.961] [INFO ]: fd : 16 connect id : 15 successful connect. IP 127.0.0.1: , Port : 59658  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:09.962] [INFO ]: fd : 16 connect id : 15 handle TLS handshake IP 127.0.0.1: , Port : 59658  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:09.966] [INFO ]: fd : 17 connect id : 16 successful connect. IP 127.0.0.1: , Port : 59662  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:09.967] [INFO ]: fd : 17 connect id : 16 handle TLS handshake IP 127.0.0.1: , Port : 59662  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:09.984] [INFO ]: fd : 16 connect id : 15 handle TLS handshake IP 127.0.0.1: , Port : 59658  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:09.984] [ERROR]: fd : 16, connect id : 15, send data : 0  --source flie : sslConnect.cpp --line : 67
+[2025.12.04 09:53:09.984] [ERROR]: fd : 16, connect id : 15, rest data : 823  --source flie : sslConnect.cpp --line : 68
+[2025.12.04 09:53:09.984] [INFO ]: fd : 16 connect id : 15 successful complete TLS handshake IP 127.0.0.1: , Port : 59658  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:09.984] [INFO ]: fd : 16 connect id : 15, has stuck  --source flie : httpserver.cpp --line : 167
+[2025.12.04 09:53:09.984] [INFO ]: fd : 16 connect id : 15 handle request. IP 127.0.0.1: , Port : 59658  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:09.984] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.12.04 09:53:09.985] [INFO ]: fd : 16 connect id : 15 successful create http response. IP 127.0.0.1: , Port : 59658  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:09.990] [INFO ]: fd : 17 connect id : 16 handle TLS handshake IP 127.0.0.1: , Port : 59662  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:09.990] [INFO ]: fd : 17 connect id : 16 successful complete TLS handshake IP 127.0.0.1: , Port : 59662  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:10.029] [INFO ]: fd : 16 connect id : 15 close. IP 127.0.0.1: , Port : 59658  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:20.066] [INFO ]: fd : 16 connect id : 17 successful connect. IP 127.0.0.1: , Port : 34616  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:20.261] [INFO ]: fd : 16 connect id : 17 handle TLS handshake IP 127.0.0.1: , Port : 34616  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:20.281] [INFO ]: fd : 16 connect id : 17 handle TLS handshake IP 127.0.0.1: , Port : 34616  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:20.281] [ERROR]: fd : 16, connect id : 17, send data : 0  --source flie : sslConnect.cpp --line : 67
+[2025.12.04 09:53:20.281] [ERROR]: fd : 16, connect id : 17, rest data : 585  --source flie : sslConnect.cpp --line : 68
+[2025.12.04 09:53:20.281] [INFO ]: fd : 16 connect id : 17 successful complete TLS handshake IP 127.0.0.1: , Port : 34616  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:20.281] [INFO ]: fd : 16 connect id : 17, has stuck  --source flie : httpserver.cpp --line : 167
+[2025.12.04 09:53:20.282] [INFO ]: fd : 16 connect id : 17 handle request. IP 127.0.0.1: , Port : 34616  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:20.282] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.12.04 09:53:20.282] [INFO ]: fd : 16 connect id : 17 successful create http response. IP 127.0.0.1: , Port : 34616  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:20.283] [DEBUG]: fd : 16, connect id : 17, send 0 ~ 1024 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:53:20.283] [DEBUG]: fd : 16, connect id : 17, send 1024 ~ 1576 Bytes  --source flie : download.cpp --line : 132
+[2025.12.04 09:53:20.343] [INFO ]: fd : 16 connect id : 17 close. IP 127.0.0.1: , Port : 34616  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:20.782] [INFO ]: fd : 16 connect id : 18 successful connect. IP 127.0.0.1: , Port : 34628  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:20.783] [INFO ]: fd : 16 connect id : 18 handle TLS handshake IP 127.0.0.1: , Port : 34628  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:20.836] [INFO ]: fd : 16 connect id : 18 handle TLS handshake IP 127.0.0.1: , Port : 34628  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:20.837] [INFO ]: fd : 16 connect id : 18 successful complete TLS handshake IP 127.0.0.1: , Port : 34628  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:20.887] [INFO ]: fd : 16 connect id : 18 handle request. IP 127.0.0.1: , Port : 34628  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:20.887] [INFO ]: 成功解析Hppt请求报文  --source flie : httpcontent.cpp --line : 113
+[2025.12.04 09:53:20.892] [INFO ]: fd : 16 connect id : 18 close. IP 127.0.0.1: , Port : 34628  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:32.142] [INFO ]: fd : 17 connect id : 16 close. IP 127.0.0.1: , Port : 59662  --source flie : httpserver.cpp --line : 15
+[2025.12.04 09:53:32.148] [DEBUG]: delete session id :38fbf959258bc8148b1b72462aec8f71  --source flie : sessionmanager.cpp --line : 111
+[2025.12.04 09:53:32.148] [DEBUG]: delete session id :21fcf24067d99a84c60bdd4d4e514894  --source flie : sessionmanager.cpp --line : 111
+[2025.12.04 09:53:32.148] [DEBUG]: delete session id :b9053b564bbe07cff9ecf0b087e06420  --source flie : sessionmanager.cpp --line : 111

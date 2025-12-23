@@ -1,0 +1,10 @@
+[2025.11.21 13:28:11.304] [INFO ]: success to create MysqlConnectionPool  --source flie : mysqlpool.cpp --line : 71
+[2025.11.21 13:28:11.306] [INFO ]: successful open html file  --source flie : root.cpp --line : 23
+[2025.11.21 13:28:14.650] [INFO ]: fd : 16 connect id : 1 successful connect. IP 127.0.0.1: , Port : 59910  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:14.650] [INFO ]: fd : 16 connect id : 1 handle request. IP 127.0.0.1: , Port : 59910  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:14.650] [INFO ]: 解析Hppt请求报文失败  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:14.650] [INFO ]: fd : 17 connect id : 2 successful connect. IP 127.0.0.1: , Port : 59924  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:14.650] [INFO ]: fd : 17 connect id : 2 handle request. IP 127.0.0.1: , Port : 59924  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:14.650] [INFO ]: 解析Hppt请求报文失败  --source flie : httpcontent.cpp --line : 113
+[2025.11.21 13:28:27.285] [INFO ]: fd : 17 connect id : 2 close. IP 127.0.0.1: , Port : 59924  --source flie : httpserver.cpp --line : 15
+[2025.11.21 13:28:27.285] [INFO ]: fd : 16 connect id : 1 close. IP 127.0.0.1: , Port : 59910  --source flie : httpserver.cpp --line : 15

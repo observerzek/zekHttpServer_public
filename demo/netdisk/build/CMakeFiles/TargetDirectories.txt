@@ -1,0 +1,3 @@
+/home/zek/cppProject/zekHttpServer/demo/netdisk/build/CMakeFiles/net_disk.dir
+/home/zek/cppProject/zekHttpServer/demo/netdisk/build/CMakeFiles/edit_cache.dir
+/home/zek/cppProject/zekHttpServer/demo/netdisk/build/CMakeFiles/rebuild_cache.dir

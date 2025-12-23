@@ -1,0 +1,171 @@
+[2025.12.23 13:37:06][INFO ] : fd 5 of Channel is open
+[2025.12.23 13:37:06][INFO ] : thread pool initialization process end, thread count : 4
+[2025.12.23 13:37:06][INFO ] : fd 7 of Channel is open
+[2025.12.23 13:37:06][INFO ] : launch thread, time : 1
+[2025.12.23 13:37:06][INFO ] : thread id : 2, thread main function start
+[2025.12.23 13:37:06][INFO ] : fd 9 of Channel is open
+[2025.12.23 13:37:06][INFO ] : thread id : 2, begin loop function
+[2025.12.23 13:37:06][INFO ] : launch thread, time : 2
+[2025.12.23 13:37:06][INFO ] : thread id : 3, thread main function start
+[2025.12.23 13:37:06][INFO ] : fd 11 of Channel is open
+[2025.12.23 13:37:06][INFO ] : thread id : 3, begin loop function
+[2025.12.23 13:37:06][INFO ] : launch thread, time : 3
+[2025.12.23 13:37:06][INFO ] : thread id : 4, thread main function start
+[2025.12.23 13:37:06][INFO ] : fd 13 of Channel is open
+[2025.12.23 13:37:06][INFO ] : thread id : 4, begin loop function
+[2025.12.23 13:37:06][INFO ] : launch thread, time : 4
+[2025.12.23 13:37:06][INFO ] : thread id : 5, thread main function start
+[2025.12.23 13:37:06][INFO ] : fd 15 of Channel is open
+[2025.12.23 13:37:06][INFO ] : thread id : 5, begin loop function
+[2025.12.23 13:37:06][INFO ] : thread id : 1, begin loop function
+[2025.12.23 13:37:08][INFO ] : channel fd : 5, active event : EPOLLIN, thread id : 1
+[2025.12.23 13:37:08][INFO ] : channel fd : 11, active event : EPOLLIN, thread id : 3
+[2025.12.23 13:37:08][INFO ] : channel fd : 15, active event : EPOLLIN, thread id : 5
+[2025.12.23 13:37:08][INFO ] : channel fd : 13, active event : EPOLLIN, thread id : 4
+[2025.12.23 13:37:08][INFO ] : thread id : 4, end loop function
+[2025.12.23 13:37:08][INFO ] : thread id : 4, thread main function end
+[2025.12.23 13:37:08][INFO ] : fd 13 of Channel is end
+[2025.12.23 13:37:08][INFO ] : channel fd : 9, active event : EPOLLIN, thread id : 2
+[2025.12.23 13:37:08][INFO ] : thread id : 3, end loop function
+[2025.12.23 13:37:08][INFO ] : thread id : 3, thread main function end
+[2025.12.23 13:37:08][INFO ] : thread id : 5, end loop function
+[2025.12.23 13:37:08][INFO ] : thread id : 5, thread main function end
+[2025.12.23 13:37:08][INFO ] : thread id : 4, run ~EventLoop
+[2025.12.23 13:37:08][INFO ] : thread id : 2, end loop function
+[2025.12.23 13:37:08][INFO ] : thread id : 2, thread main function end
+[2025.12.23 13:37:08][INFO ] : fd 11 of Channel is end
+[2025.12.23 13:37:08][INFO ] : fd 15 of Channel is end
+[2025.12.23 13:37:08][INFO ] : fd 9 of Channel is end
+[2025.12.23 13:37:08][INFO ] : thread id : 3, run ~EventLoop
+[2025.12.23 13:37:08][INFO ] : thread id : 5, run ~EventLoop
+[2025.12.23 13:37:08][INFO ] : thread id : 2, run ~EventLoop
+[2025.12.23 13:37:08][INFO ] : thread id : 1, end loop function
+[2025.12.23 13:37:08][INFO ] : fd 7 of Channel is end
+[2025.12.23 13:37:08][INFO ] : fd 5 of Channel is end
+[2025.12.23 13:37:08][INFO ] : thread id : 1, run ~EventLoop
+[2025.12.23 14:07:47][INFO ] : fd 5 of Channel is open
+[2025.12.23 14:07:47][INFO ] : thread pool initialization process end, thread count : 4
+[2025.12.23 14:07:47][INFO ] : fd 7 of Channel is open
+[2025.12.23 14:07:47][INFO ] : launch thread, time : 1
+[2025.12.23 14:07:47][INFO ] : thread id : 2, thread main function start
+[2025.12.23 14:07:47][INFO ] : fd 9 of Channel is open
+[2025.12.23 14:07:47][INFO ] : thread id : 2, begin loop function
+[2025.12.23 14:07:47][INFO ] : launch thread, time : 2
+[2025.12.23 14:07:47][INFO ] : thread id : 3, thread main function start
+[2025.12.23 14:07:47][INFO ] : fd 11 of Channel is open
+[2025.12.23 14:07:47][INFO ] : thread id : 3, begin loop function
+[2025.12.23 14:07:47][INFO ] : launch thread, time : 3
+[2025.12.23 14:07:47][INFO ] : thread id : 4, thread main function start
+[2025.12.23 14:07:47][INFO ] : fd 13 of Channel is open
+[2025.12.23 14:07:47][INFO ] : thread id : 4, begin loop function
+[2025.12.23 14:07:47][INFO ] : launch thread, time : 4
+[2025.12.23 14:07:47][INFO ] : thread id : 5, thread main function start
+[2025.12.23 14:07:47][INFO ] : fd 15 of Channel is open
+[2025.12.23 14:07:47][INFO ] : thread id : 5, begin loop function
+[2025.12.23 14:07:47][INFO ] : thread id : 1, begin loop function
+[2025.12.23 14:07:54][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.12.23 14:07:54][INFO ] : fd 16 of Channel is open
+[2025.12.23 14:07:54][INFO ] : channel fd : 9, active event : EPOLLIN, thread id : 2
+[2025.12.23 14:07:54][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 2
+[2025.12.23 14:07:54][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.12.23 14:07:54][INFO ] : fd 17 of Channel is open
+[2025.12.23 14:07:54][INFO ] : channel fd : 11, active event : EPOLLIN, thread id : 3
+[2025.12.23 14:07:54][INFO ] : channel fd : 17, active event : EPOLLIN, thread id : 3
+[2025.12.23 14:07:54][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 2
+[2025.12.23 14:07:54][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 2
+[2025.12.23 14:07:54][INFO ] : channel fd : 17, active event : EPOLLIN, thread id : 3
+[2025.12.23 14:07:54][INFO ] : fd 16 of Channel is end
+[2025.12.23 14:07:54][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.12.23 14:07:54][INFO ] : fd 16 of Channel is open
+[2025.12.23 14:07:54][INFO ] : channel fd : 13, active event : EPOLLIN, thread id : 4
+[2025.12.23 14:07:54][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 4
+[2025.12.23 14:07:54][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 4
+[2025.12.23 14:07:55][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 4
+[2025.12.23 14:07:55][INFO ] : fd 16 of Channel is end
+[2025.12.23 14:10:37][INFO ] : fd 5 of Channel is open
+[2025.12.23 14:10:37][INFO ] : thread pool initialization process end, thread count : 4
+[2025.12.23 14:10:37][INFO ] : fd 7 of Channel is open
+[2025.12.23 14:10:37][INFO ] : launch thread, time : 1
+[2025.12.23 14:10:37][INFO ] : thread id : 2, thread main function start
+[2025.12.23 14:10:37][INFO ] : fd 9 of Channel is open
+[2025.12.23 14:10:37][INFO ] : thread id : 2, begin loop function
+[2025.12.23 14:10:37][INFO ] : launch thread, time : 2
+[2025.12.23 14:10:37][INFO ] : thread id : 3, thread main function start
+[2025.12.23 14:10:37][INFO ] : fd 11 of Channel is open
+[2025.12.23 14:10:37][INFO ] : thread id : 3, begin loop function
+[2025.12.23 14:10:37][INFO ] : launch thread, time : 3
+[2025.12.23 14:10:37][INFO ] : thread id : 4, thread main function start
+[2025.12.23 14:10:37][INFO ] : fd 13 of Channel is open
+[2025.12.23 14:10:37][INFO ] : thread id : 4, begin loop function
+[2025.12.23 14:10:37][INFO ] : launch thread, time : 4
+[2025.12.23 14:10:37][INFO ] : thread id : 5, thread main function start
+[2025.12.23 14:10:37][INFO ] : fd 15 of Channel is open
+[2025.12.23 14:10:37][INFO ] : thread id : 5, begin loop function
+[2025.12.23 14:10:37][INFO ] : thread id : 1, begin loop function
+[2025.12.23 14:12:46][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.12.23 14:12:46][INFO ] : fd 16 of Channel is open
+[2025.12.23 14:12:46][INFO ] : channel fd : 9, active event : EPOLLIN, thread id : 2
+[2025.12.23 14:12:46][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 2
+[2025.12.23 14:12:46][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.12.23 14:12:46][INFO ] : fd 17 of Channel is open
+[2025.12.23 14:12:46][INFO ] : channel fd : 11, active event : EPOLLIN, thread id : 3
+[2025.12.23 14:12:46][INFO ] : channel fd : 17, active event : EPOLLIN, thread id : 3
+[2025.12.23 14:12:46][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 2
+[2025.12.23 14:12:46][INFO ] : channel fd : 17, active event : EPOLLIN, thread id : 3
+[2025.12.23 14:12:46][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 2
+[2025.12.23 14:12:46][INFO ] : fd 16 of Channel is end
+[2025.12.23 14:12:52][INFO ] : channel fd : 17, active event : EPOLLIN, thread id : 3
+[2025.12.23 14:12:52][INFO ] : channel fd : 17, active event : EPOLLIN, thread id : 3
+[2025.12.23 14:12:52][INFO ] : channel fd : 17, active event : EPOLLHUP, thread id : 3
+[2025.12.23 14:12:52][INFO ] : fd 17 of Channel is end
+[2025.12.23 14:12:52][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.12.23 14:12:52][INFO ] : fd 16 of Channel is open
+[2025.12.23 14:12:52][INFO ] : channel fd : 13, active event : EPOLLIN, thread id : 4
+[2025.12.23 14:12:52][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 4
+[2025.12.23 14:12:52][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 4
+[2025.12.23 14:12:52][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 4
+[2025.12.23 14:12:52][INFO ] : fd 16 of Channel is end
+[2025.12.23 14:12:59][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.12.23 14:12:59][INFO ] : fd 16 of Channel is open
+[2025.12.23 14:12:59][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.12.23 14:12:59][INFO ] : channel fd : 15, active event : EPOLLIN, thread id : 5
+[2025.12.23 14:12:59][INFO ] : fd 17 of Channel is open
+[2025.12.23 14:12:59][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 5
+[2025.12.23 14:12:59][INFO ] : channel fd : 9, active event : EPOLLIN, thread id : 2
+[2025.12.23 14:12:59][INFO ] : channel fd : 17, active event : EPOLLIN, thread id : 2
+[2025.12.23 14:12:59][INFO ] : channel fd : 17, active event : EPOLLIN, thread id : 2
+[2025.12.23 14:12:59][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 5
+[2025.12.23 14:12:59][INFO ] : fd 16 of Channel is end
+[2025.12.23 14:12:59][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.12.23 14:12:59][INFO ] : fd 16 of Channel is open
+[2025.12.23 14:12:59][INFO ] : channel fd : 11, active event : EPOLLIN, thread id : 3
+[2025.12.23 14:12:59][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 3
+[2025.12.23 14:12:59][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 3
+[2025.12.23 14:12:59][INFO ] : channel fd : 16, active event : EPOLLIN, thread id : 3
+[2025.12.23 14:12:59][INFO ] : fd 16 of Channel is end
+[2025.12.23 14:13:16][INFO ] : channel fd : 5, active event : EPOLLIN, thread id : 1
+[2025.12.23 14:13:16][INFO ] : channel fd : 9, active event : EPOLLIN, thread id : 2
+[2025.12.23 14:13:16][INFO ] : channel fd : 11, active event : EPOLLIN, thread id : 3
+[2025.12.23 14:13:16][INFO ] : thread id : 3, end loop function
+[2025.12.23 14:13:16][INFO ] : thread id : 3, thread main function end
+[2025.12.23 14:13:16][INFO ] : channel fd : 15, active event : EPOLLIN, thread id : 5
+[2025.12.23 14:13:16][INFO ] : channel fd : 13, active event : EPOLLIN, thread id : 4
+[2025.12.23 14:13:16][INFO ] : thread id : 4, end loop function
+[2025.12.23 14:13:16][INFO ] : thread id : 4, thread main function end
+[2025.12.23 14:13:16][INFO ] : thread id : 5, end loop function
+[2025.12.23 14:13:16][INFO ] : thread id : 5, thread main function end
+[2025.12.23 14:13:16][INFO ] : fd 17 of Channel is end
+[2025.12.23 14:13:16][INFO ] : fd 11 of Channel is end
+[2025.12.23 14:13:16][INFO ] : thread id : 2, end loop function
+[2025.12.23 14:13:16][INFO ] : thread id : 2, thread main function end
+[2025.12.23 14:13:16][INFO ] : fd 9 of Channel is end
+[2025.12.23 14:13:16][INFO ] : fd 13 of Channel is end
+[2025.12.23 14:13:16][INFO ] : thread id : 3, run ~EventLoop
+[2025.12.23 14:13:16][INFO ] : fd 15 of Channel is end
+[2025.12.23 14:13:16][INFO ] : thread id : 2, run ~EventLoop
+[2025.12.23 14:13:16][INFO ] : thread id : 4, run ~EventLoop
+[2025.12.23 14:13:16][INFO ] : thread id : 5, run ~EventLoop
+[2025.12.23 14:13:16][INFO ] : thread id : 1, end loop function
+[2025.12.23 14:13:16][INFO ] : fd 7 of Channel is end
+[2025.12.23 14:13:16][INFO ] : fd 5 of Channel is end
+[2025.12.23 14:13:16][INFO ] : thread id : 1, run ~EventLoop

@@ -1,0 +1,22 @@
+[ req ]
+default_bits        = 2048
+distinguished_name  = req_distinguished_name
+req_extensions      = san
+extensions          = san
+
+[ req_distinguished_name ]
+countryName         = CN
+stateOrProvinceName = Definesys
+localityName        = Definesys
+organizationName    = Definesys
+
+[SAN]
+authorityKeyIdentifier=keyid,issuer
+basicConstraints=CA:FALSE
+keyUsage = digitalSignature, nonRepudiation, keyEncipherment, dataEncipherment
+subjectAltName = @alt_names
+
+[alt_names]
+#IP.1 = 8.138.214.123
+#IP.2 = 203.0.113.1
+

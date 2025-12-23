@@ -1,0 +1,98 @@
+[2025.10.16 09:26:06][INFO ] : thread pool initialization process end, thread count : 1
+[2025.10.16 09:26:06][INFO ] : launch thread, time : 1
+[2025.10.16 09:26:06][INFO ] : thread id : 2, thread main function start
+[2025.10.16 09:26:06][INFO ] : thread id : 2, begin loop function
+[2025.10.16 09:26:06][INFO ] : thread id : 1, begin loop function
+[2025.10.16 09:26:59][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.10.16 09:26:59][INFO ] : channel fd : 10, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:26:59][INFO ] : channel fd : 10, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:26:59][INFO ] : channel fd : 10, active event : EPOLLHUP, thread id : 2
+[2025.10.16 09:26:59][INFO ] : fd 10 of Channel is end
+[2025.10.16 09:26:59][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.10.16 09:27:00][INFO ] : channel fd : 10, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:27:00][INFO ] : channel fd : 10, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:27:00][INFO ] : channel fd : 10, active event : EPOLLHUP, thread id : 2
+[2025.10.16 09:27:00][INFO ] : fd 10 of Channel is end
+[2025.10.16 09:27:01][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.10.16 09:27:02][INFO ] : channel fd : 10, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:27:02][INFO ] : fd 10 of Channel is end
+[2025.10.16 09:27:14][INFO ] : thread id : 2, end loop function
+[2025.10.16 09:27:14][INFO ] : thread id : 2, thread main function end
+[2025.10.16 09:27:14][INFO ] : fd 9 of Channel is end
+[2025.10.16 09:27:14][INFO ] : thread id : 2, run ~EventLoop
+[2025.10.16 09:27:14][INFO ] : thread id : 1, end loop function
+[2025.10.16 09:27:14][INFO ] : fd 7 of Channel is end
+[2025.10.16 09:27:14][INFO ] : fd 5 of Channel is end
+[2025.10.16 09:27:14][INFO ] : thread id : 1, run ~EventLoop
+[2025.10.16 09:29:22][INFO ] : thread pool initialization process end, thread count : 1
+[2025.10.16 09:29:22][INFO ] : launch thread, time : 1
+[2025.10.16 09:29:22][INFO ] : thread id : 2, thread main function start
+[2025.10.16 09:29:22][INFO ] : thread id : 2, begin loop function
+[2025.10.16 09:29:22][INFO ] : thread id : 1, begin loop function
+[2025.10.16 09:29:33][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.10.16 09:29:33][INFO ] : channel fd : 10, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:29:33][INFO ] : channel fd : 10, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:29:33][INFO ] : channel fd : 10, active event : EPOLLHUP, thread id : 2
+[2025.10.16 09:29:40][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.10.16 09:29:41][INFO ] : fd 10 of Channel is end
+[2025.10.16 09:30:01][INFO ] : channel fd : 11, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:30:01][INFO ] : fd 11 of Channel is end
+[2025.10.16 09:30:09][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.10.16 09:30:09][INFO ] : channel fd : 10, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:30:09][INFO ] : channel fd : 10, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:30:09][INFO ] : channel fd : 10, active event : EPOLLHUP, thread id : 2
+[2025.10.16 09:30:26][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.10.16 09:33:17][INFO ] : fd 10 of Channel is end
+[2025.10.16 09:34:16][INFO ] : thread pool initialization process end, thread count : 1
+[2025.10.16 09:34:16][INFO ] : launch thread, time : 1
+[2025.10.16 09:34:16][INFO ] : thread id : 2, thread main function start
+[2025.10.16 09:34:16][INFO ] : thread id : 2, begin loop function
+[2025.10.16 09:34:16][INFO ] : thread id : 1, begin loop function
+[2025.10.16 09:34:19][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.10.16 09:34:19][INFO ] : channel fd : 10, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:34:19][INFO ] : channel fd : 10, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:34:19][INFO ] : channel fd : 10, active event : EPOLLHUP, thread id : 2
+[2025.10.16 09:34:23][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.10.16 09:34:58][INFO ] : fd 10 of Channel is end
+[2025.10.16 09:53:03][INFO ] : thread pool initialization process end, thread count : 1
+[2025.10.16 09:53:03][INFO ] : launch thread, time : 1
+[2025.10.16 09:53:03][INFO ] : thread id : 2, thread main function start
+[2025.10.16 09:53:03][INFO ] : thread id : 2, begin loop function
+[2025.10.16 09:53:03][INFO ] : thread id : 1, begin loop function
+[2025.10.16 09:53:06][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.10.16 09:53:06][INFO ] : channel fd : 10, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:53:06][INFO ] : channel fd : 10, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:53:06][INFO ] : channel fd : 10, active event : EPOLLHUP, thread id : 2
+[2025.10.16 09:53:06][INFO ] : fd 10 of Channel is end
+[2025.10.16 09:53:07][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.10.16 09:53:07][INFO ] : channel fd : 10, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:53:07][INFO ] : fd 10 of Channel is end
+[2025.10.16 09:53:10][INFO ] : thread id : 2, end loop function
+[2025.10.16 09:53:10][INFO ] : thread id : 2, thread main function end
+[2025.10.16 09:53:10][INFO ] : fd 9 of Channel is end
+[2025.10.16 09:53:10][INFO ] : thread id : 2, run ~EventLoop
+[2025.10.16 09:53:10][INFO ] : thread id : 1, end loop function
+[2025.10.16 09:53:10][INFO ] : fd 7 of Channel is end
+[2025.10.16 09:53:10][INFO ] : fd 5 of Channel is end
+[2025.10.16 09:53:10][INFO ] : thread id : 1, run ~EventLoop
+[2025.10.16 09:53:29][INFO ] : thread pool initialization process end, thread count : 1
+[2025.10.16 09:53:29][INFO ] : launch thread, time : 1
+[2025.10.16 09:53:29][INFO ] : thread id : 2, thread main function start
+[2025.10.16 09:53:29][INFO ] : thread id : 2, begin loop function
+[2025.10.16 09:53:29][INFO ] : thread id : 1, begin loop function
+[2025.10.16 09:53:32][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.10.16 09:53:33][INFO ] : channel fd : 10, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:53:33][INFO ] : channel fd : 10, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:53:33][INFO ] : channel fd : 10, active event : EPOLLHUP, thread id : 2
+[2025.10.16 09:53:38][INFO ] : channel fd : 7, active event : EPOLLIN, thread id : 1
+[2025.10.16 09:55:34][INFO ] : fd 10 of Channel is end
+[2025.10.16 09:55:34][INFO ] : channel fd : 11, active event : EPOLLIN, thread id : 2
+[2025.10.16 09:55:49][INFO ] : fd 11 of Channel is end
+[2025.10.16 09:56:01][INFO ] : thread id : 2, end loop function
+[2025.10.16 09:56:01][INFO ] : thread id : 2, thread main function end
+[2025.10.16 09:56:01][INFO ] : fd 9 of Channel is end
+[2025.10.16 09:56:01][INFO ] : thread id : 2, run ~EventLoop
+[2025.10.16 09:56:01][INFO ] : thread id : 1, end loop function
+[2025.10.16 09:56:01][INFO ] : fd 7 of Channel is end
+[2025.10.16 09:56:01][INFO ] : fd 5 of Channel is end
+[2025.10.16 09:56:01][INFO ] : thread id : 1, run ~EventLoop
